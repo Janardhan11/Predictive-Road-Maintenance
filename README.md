@@ -3,6 +3,7 @@
 This project is a **demo web app** for predictive road maintenance.  
 It takes a **road image**, predicts its **condition** using a CNN, then estimates **months until deterioration** and a **risk score (0–100)** using traffic & weather metadata.
 
+I developed a Predictive Road Maintenance demo to showcase how AI can support infrastructure planning. The situation was that manual road inspections are reactive and costly, and there was a need for a proactive solution. My task was to build an app that could assess road condition from images and forecast when deterioration would occur. For the action, I used a MobileNetV2-based CNN to classify road images into four categories (Good, Satisfactory, Poor, Very Poor) and a scikit-learn regression pipeline to predict the number of months until a segment becomes “Poor,” integrating metadata such as traffic, rainfall, pavement type, and maintenance history. I also designed a risk score formula, normalized it to 0–100, and implemented the whole workflow in a Streamlit web app with a clean UI, model caching, and fallback logic. The result was a working end-to-end system achieving ~85% image classification accuracy and ~0.70 R² on the regression model, enabling actionable insights for prioritizing road repairs and serving as a strong portfolio project to demonstrate skills in Computer Vision, ML pipelines, and full-stack AI app deployment.
 ---
 
 ## ✨ Features
