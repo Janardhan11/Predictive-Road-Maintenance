@@ -1,0 +1,2001 @@
+segment_id,traffic_day,pct_heavy_truck,rainfall_30d,pavement_type,months_since_last_maintenance,condition_now,months_to_poor
+R094,20795,0.58,116,Concrete,8,Good,5
+R002,21850,0.15,97,Asphalt,53,Poor,0
+R026,49131,0.17,140,Gravel,22,Poor,0
+R051,7433,0.19,286,Asphalt,33,Very Poor,0
+R047,24769,0.36,245,Concrete,25,Very Poor,0
+R010,46434,0.41,179,Gravel,28,Very Poor,0
+R081,7747,0.28,199,Concrete,47,Good,6
+R089,40773,0.2,64,Concrete,52,Poor,0
+R080,8890,0.44,176,Asphalt,18,Poor,0
+R031,15627,0.57,23,Concrete,50,Very Poor,0
+R082,48001,0.25,62,Gravel,2,Very Poor,0
+R098,28483,0.16,273,Gravel,47,Good,4
+R056,6585,0.43,11,Gravel,6,Poor,0
+R005,48573,0.37,200,Gravel,18,Satisfactory,2
+R001,16534,0.14,224,Concrete,57,Very Poor,0
+R037,29253,0.26,217,Gravel,45,Very Poor,0
+R011,13529,0.37,289,Gravel,26,Satisfactory,2
+R095,26243,0.4,50,Gravel,29,Good,10
+R065,18986,0.5,270,Concrete,42,Satisfactory,2
+R017,31854,0.43,37,Concrete,7,Very Poor,0
+R049,13392,0.41,42,Concrete,48,Satisfactory,5
+R029,35818,0.4,223,Gravel,27,Poor,0
+R015,47530,0.34,110,Asphalt,47,Very Poor,0
+R016,18773,0.52,14,Gravel,26,Good,7
+R036,5206,0.31,51,Concrete,13,Very Poor,0
+R059,46523,0.38,231,Asphalt,37,Very Poor,0
+R032,45342,0.4,152,Concrete,43,Satisfactory,2
+R070,38827,0.57,196,Gravel,51,Poor,0
+R072,7693,0.33,117,Asphalt,44,Poor,0
+R040,30939,0.55,137,Gravel,58,Good,3
+R023,28776,0.24,292,Concrete,57,Good,3
+R016,32251,0.28,268,Asphalt,39,Good,5
+R036,8748,0.45,243,Concrete,44,Good,3
+R053,5663,0.57,169,Asphalt,32,Satisfactory,2
+R077,44353,0.58,122,Gravel,37,Good,6
+R077,25080,0.6,196,Concrete,49,Good,3
+R011,5854,0.24,234,Asphalt,1,Poor,0
+R028,26556,0.34,169,Asphalt,6,Satisfactory,4
+R041,37970,0.28,264,Gravel,38,Very Poor,0
+R036,7327,0.34,107,Asphalt,6,Very Poor,0
+R098,28509,0.37,249,Concrete,16,Satisfactory,2
+R046,30184,0.18,196,Gravel,6,Poor,0
+R066,7811,0.44,156,Gravel,20,Poor,0
+R050,7911,0.15,137,Gravel,39,Satisfactory,2
+R042,26918,0.54,108,Concrete,7,Poor,0
+R075,36065,0.59,69,Concrete,49,Very Poor,0
+R094,7049,0.6,263,Concrete,12,Very Poor,0
+R023,25932,0.55,18,Concrete,41,Very Poor,0
+R036,47642,0.46,140,Concrete,20,Very Poor,0
+R081,11295,0.3,170,Gravel,24,Poor,0
+R080,7557,0.57,162,Gravel,29,Very Poor,0
+R001,7961,0.18,203,Asphalt,54,Very Poor,0
+R024,33643,0.46,298,Gravel,14,Poor,0
+R053,30876,0.19,144,Asphalt,3,Satisfactory,7
+R079,9555,0.35,31,Asphalt,46,Very Poor,0
+R020,19373,0.59,60,Concrete,54,Satisfactory,3
+R026,10895,0.42,235,Concrete,21,Satisfactory,6
+R045,46919,0.53,156,Gravel,4,Very Poor,0
+R036,42410,0.48,26,Asphalt,44,Poor,0
+R015,23589,0.58,15,Concrete,35,Poor,0
+R014,5699,0.53,200,Concrete,21,Very Poor,0
+R028,40743,0.53,265,Asphalt,3,Good,3
+R061,31641,0.38,232,Concrete,54,Poor,0
+R085,41631,0.2,160,Gravel,2,Good,14
+R047,21538,0.25,282,Asphalt,40,Good,7
+R066,45111,0.38,179,Asphalt,55,Satisfactory,2
+R004,43754,0.23,22,Asphalt,58,Good,7
+R065,27386,0.27,101,Asphalt,34,Good,8
+R054,18121,0.32,60,Gravel,25,Very Poor,0
+R099,27677,0.4,189,Asphalt,42,Satisfactory,2
+R017,7491,0.26,273,Gravel,53,Poor,0
+R096,8051,0.58,112,Concrete,4,Very Poor,0
+R044,5876,0.2,56,Gravel,35,Very Poor,0
+R044,44734,0.17,153,Gravel,13,Poor,0
+R078,19098,0.32,238,Gravel,26,Satisfactory,2
+R056,13308,0.14,136,Concrete,9,Satisfactory,5
+R033,34305,0.18,299,Asphalt,32,Good,6
+R040,12805,0.15,98,Gravel,40,Good,10
+R061,18500,0.47,78,Asphalt,22,Satisfactory,4
+R089,13130,0.22,153,Concrete,51,Satisfactory,2
+R099,48225,0.48,48,Asphalt,36,Very Poor,0
+R081,42220,0.3,19,Gravel,54,Good,11
+R090,37580,0.54,189,Gravel,31,Very Poor,0
+R098,28289,0.57,105,Concrete,1,Poor,0
+R075,32663,0.14,256,Concrete,2,Very Poor,0
+R011,34168,0.53,169,Gravel,27,Very Poor,0
+R011,5851,0.39,187,Gravel,35,Satisfactory,2
+R077,40195,0.16,188,Concrete,43,Poor,0
+R050,43304,0.43,52,Concrete,44,Poor,0
+R063,25764,0.13,104,Concrete,46,Good,8
+R028,30351,0.29,99,Gravel,34,Satisfactory,3
+R061,46576,0.35,123,Concrete,45,Poor,0
+R044,49425,0.31,201,Concrete,35,Satisfactory,2
+R087,22506,0.31,105,Concrete,24,Very Poor,0
+R048,28190,0.57,46,Concrete,12,Good,12
+R061,7914,0.15,282,Gravel,49,Good,5
+R025,19397,0.35,226,Concrete,22,Satisfactory,2
+R084,18923,0.11,242,Asphalt,19,Poor,0
+R011,41939,0.28,293,Concrete,14,Satisfactory,2
+R054,10486,0.14,78,Gravel,35,Poor,3
+R001,42259,0.26,62,Gravel,23,Very Poor,0
+R074,6167,0.49,118,Concrete,53,Poor,0
+R056,42497,0.32,224,Concrete,29,Good,5
+R082,42098,0.45,248,Gravel,12,Very Poor,0
+R056,28625,0.52,262,Asphalt,38,Poor,0
+R085,44081,0.3,292,Gravel,58,Poor,0
+R014,22924,0.36,145,Gravel,48,Very Poor,0
+R059,47348,0.29,154,Gravel,7,Good,7
+R038,11588,0.29,176,Concrete,27,Satisfactory,2
+R072,30289,0.55,48,Concrete,3,Good,8
+R080,8709,0.13,10,Concrete,3,Good,12
+R050,47956,0.22,200,Concrete,49,Good,5
+R028,7105,0.11,169,Concrete,45,Satisfactory,2
+R082,39620,0.26,89,Asphalt,54,Poor,0
+R077,49472,0.36,242,Gravel,49,Poor,0
+R038,43413,0.25,10,Gravel,53,Poor,0
+R059,46430,0.12,21,Concrete,10,Good,16
+R082,15975,0.13,165,Gravel,53,Good,6
+R015,41487,0.28,187,Asphalt,28,Satisfactory,2
+R083,32355,0.28,237,Gravel,27,Satisfactory,2
+R006,18216,0.31,229,Gravel,48,Very Poor,0
+R081,22308,0.17,44,Asphalt,6,Good,17
+R011,10713,0.31,206,Asphalt,47,Satisfactory,2
+R046,42892,0.11,298,Asphalt,54,Poor,0
+R093,32712,0.34,248,Asphalt,49,Poor,0
+R028,25309,0.51,186,Concrete,13,Poor,0
+R056,25384,0.33,108,Gravel,1,Good,11
+R042,14860,0.6,32,Asphalt,37,Poor,0
+R039,8636,0.57,92,Gravel,17,Good,7
+R034,39816,0.58,214,Asphalt,4,Satisfactory,2
+R056,26949,0.54,297,Asphalt,34,Good,3
+R090,19489,0.35,127,Asphalt,3,Satisfactory,4
+R080,33538,0.25,63,Concrete,44,Satisfactory,4
+R088,47808,0.39,264,Gravel,47,Very Poor,0
+R098,20254,0.48,75,Asphalt,11,Poor,0
+R039,20781,0.41,235,Gravel,38,Poor,0
+R095,30934,0.32,258,Concrete,38,Very Poor,0
+R065,36703,0.56,39,Gravel,55,Satisfactory,2
+R001,48088,0.57,147,Concrete,56,Very Poor,0
+R067,24856,0.35,78,Asphalt,34,Satisfactory,2
+R008,44037,0.42,249,Asphalt,11,Poor,0
+R056,11254,0.16,192,Gravel,16,Poor,0
+R031,47679,0.31,204,Gravel,27,Poor,0
+R041,9188,0.59,70,Asphalt,58,Satisfactory,2
+R018,26969,0.24,31,Concrete,21,Very Poor,0
+R015,44749,0.16,242,Gravel,12,Satisfactory,2
+R025,23777,0.55,87,Asphalt,26,Satisfactory,2
+R079,15488,0.34,223,Gravel,47,Satisfactory,2
+R015,24262,0.29,35,Gravel,36,Very Poor,0
+R045,18568,0.14,262,Gravel,52,Poor,0
+R017,13717,0.41,87,Concrete,24,Very Poor,0
+R100,21748,0.13,196,Asphalt,56,Poor,0
+R051,10126,0.44,247,Asphalt,43,Good,3
+R082,45441,0.28,24,Concrete,25,Satisfactory,4
+R051,43518,0.29,211,Asphalt,39,Poor,0
+R077,9632,0.55,221,Concrete,25,Satisfactory,2
+R041,47563,0.28,242,Asphalt,45,Satisfactory,3
+R040,31069,0.39,273,Gravel,40,Good,3
+R018,20728,0.38,51,Gravel,41,Very Poor,0
+R013,24123,0.42,235,Asphalt,59,Good,3
+R033,32285,0.21,79,Asphalt,55,Satisfactory,3
+R073,11767,0.18,104,Concrete,24,Satisfactory,2
+R094,15787,0.6,15,Concrete,2,Good,12
+R050,46427,0.58,13,Gravel,15,Satisfactory,2
+R027,23935,0.46,71,Gravel,57,Good,7
+R069,5846,0.37,35,Asphalt,51,Good,8
+R016,35105,0.26,284,Asphalt,20,Satisfactory,2
+R065,41976,0.36,10,Gravel,26,Poor,0
+R082,6917,0.18,268,Asphalt,33,Very Poor,0
+R069,5009,0.37,147,Gravel,44,Very Poor,0
+R081,44809,0.26,139,Asphalt,20,Poor,0
+R063,13512,0.17,282,Gravel,9,Poor,0
+R015,31614,0.5,104,Gravel,49,Poor,0
+R033,22988,0.52,245,Concrete,50,Poor,0
+R011,10256,0.2,44,Gravel,1,Good,13
+R056,10415,0.46,69,Asphalt,29,Poor,0
+R049,35523,0.18,222,Asphalt,37,Very Poor,0
+R027,24282,0.43,71,Gravel,4,Satisfactory,3
+R076,21984,0.54,98,Concrete,18,Good,7
+R075,33173,0.55,134,Asphalt,38,Poor,0
+R088,10984,0.47,152,Concrete,33,Very Poor,0
+R038,24096,0.28,113,Asphalt,40,Poor,0
+R061,32202,0.41,51,Asphalt,52,Very Poor,0
+R041,20374,0.54,298,Concrete,52,Poor,0
+R097,30053,0.55,166,Asphalt,38,Good,6
+R073,37154,0.47,263,Concrete,4,Poor,0
+R047,24029,0.46,14,Asphalt,59,Very Poor,0
+R027,48872,0.15,168,Gravel,47,Good,9
+R032,19382,0.3,182,Gravel,2,Good,9
+R073,21478,0.4,291,Asphalt,43,Good,5
+R049,19153,0.27,143,Asphalt,8,Poor,0
+R029,5814,0.24,227,Concrete,13,Very Poor,0
+R073,12783,0.35,120,Gravel,40,Satisfactory,5
+R016,43727,0.43,101,Concrete,31,Very Poor,0
+R084,49409,0.13,60,Asphalt,29,Poor,0
+R025,49327,0.52,276,Concrete,23,Very Poor,0
+R006,39560,0.16,119,Gravel,36,Good,9
+R066,7708,0.29,146,Gravel,10,Satisfactory,7
+R001,44224,0.1,72,Concrete,52,Poor,0
+R072,13577,0.33,26,Asphalt,43,Good,10
+R080,46914,0.33,188,Gravel,54,Good,4
+R001,24956,0.56,186,Gravel,29,Satisfactory,2
+R005,33734,0.24,163,Asphalt,28,Very Poor,0
+R043,21241,0.43,93,Gravel,41,Poor,0
+R100,36195,0.37,58,Concrete,7,Very Poor,0
+R071,14984,0.25,224,Asphalt,51,Poor,0
+R071,29442,0.5,41,Asphalt,30,Good,13
+R039,23449,0.25,184,Concrete,50,Satisfactory,2
+R001,33865,0.37,122,Asphalt,50,Poor,0
+R079,17342,0.57,297,Concrete,10,Good,4
+R021,39249,0.55,171,Gravel,33,Very Poor,0
+R017,21438,0.18,187,Asphalt,7,Poor,0
+R047,15998,0.23,264,Asphalt,8,Good,9
+R049,36480,0.5,76,Asphalt,51,Good,3
+R033,12970,0.22,87,Asphalt,32,Satisfactory,6
+R061,23922,0.58,174,Gravel,54,Good,3
+R058,22327,0.14,272,Asphalt,33,Poor,0
+R035,7198,0.52,121,Asphalt,19,Good,5
+R045,13705,0.56,206,Asphalt,20,Good,9
+R084,24978,0.23,204,Concrete,23,Poor,0
+R076,12083,0.21,289,Concrete,17,Very Poor,0
+R051,24063,0.59,224,Asphalt,32,Poor,0
+R071,33529,0.11,23,Concrete,9,Good,18
+R036,28752,0.17,244,Asphalt,46,Good,7
+R067,46401,0.55,107,Gravel,23,Very Poor,0
+R075,13996,0.11,155,Gravel,21,Satisfactory,5
+R063,31657,0.38,162,Gravel,38,Very Poor,0
+R092,17875,0.2,36,Concrete,57,Poor,0
+R077,20646,0.54,177,Asphalt,34,Satisfactory,2
+R013,13646,0.39,199,Gravel,58,Good,6
+R041,41397,0.12,202,Gravel,51,Poor,0
+R083,29063,0.56,196,Asphalt,39,Poor,0
+R003,36463,0.38,107,Asphalt,55,Very Poor,0
+R099,28150,0.58,78,Gravel,56,Very Poor,0
+R096,26792,0.23,248,Asphalt,20,Good,8
+R093,17112,0.35,210,Asphalt,26,Poor,0
+R044,45385,0.15,210,Gravel,40,Good,6
+R064,14130,0.4,34,Asphalt,39,Very Poor,0
+R044,29354,0.51,238,Concrete,44,Poor,0
+R009,46131,0.58,111,Asphalt,34,Poor,0
+R080,9090,0.58,26,Gravel,10,Satisfactory,3
+R051,41408,0.32,21,Concrete,16,Satisfactory,5
+R068,16344,0.43,207,Gravel,8,Very Poor,0
+R078,20896,0.55,277,Asphalt,15,Satisfactory,2
+R080,30064,0.57,56,Asphalt,32,Poor,0
+R004,17182,0.38,95,Asphalt,58,Very Poor,0
+R004,21774,0.12,126,Concrete,7,Very Poor,0
+R027,9232,0.2,224,Gravel,29,Good,9
+R072,11737,0.47,112,Gravel,17,Very Poor,0
+R022,29077,0.4,117,Asphalt,45,Good,6
+R069,7983,0.32,48,Asphalt,15,Satisfactory,5
+R020,33535,0.37,219,Gravel,33,Very Poor,0
+R028,33687,0.31,117,Gravel,2,Poor,0
+R096,8810,0.14,38,Concrete,49,Good,11
+R072,13436,0.34,281,Gravel,56,Good,3
+R050,44837,0.31,74,Asphalt,30,Satisfactory,2
+R100,25144,0.16,151,Asphalt,56,Good,5
+R063,45600,0.24,82,Gravel,15,Good,8
+R084,20152,0.3,149,Concrete,59,Poor,0
+R066,45970,0.55,235,Asphalt,25,Good,3
+R040,29262,0.6,68,Gravel,8,Satisfactory,2
+R055,46844,0.52,116,Concrete,34,Poor,0
+R098,22320,0.19,268,Gravel,56,Good,3
+R068,12214,0.21,18,Concrete,35,Poor,0
+R036,23297,0.36,187,Asphalt,18,Very Poor,0
+R030,31685,0.6,12,Concrete,32,Satisfactory,5
+R076,38660,0.37,77,Asphalt,14,Poor,0
+R045,22764,0.15,114,Concrete,56,Very Poor,0
+R018,28874,0.24,38,Asphalt,9,Very Poor,0
+R022,22602,0.58,179,Asphalt,9,Good,7
+R062,20585,0.3,47,Concrete,8,Very Poor,0
+R073,26754,0.46,99,Concrete,18,Very Poor,0
+R064,34125,0.58,185,Asphalt,13,Very Poor,0
+R028,46755,0.14,90,Asphalt,50,Very Poor,0
+R093,14516,0.34,124,Asphalt,58,Poor,0
+R045,6591,0.43,49,Concrete,27,Satisfactory,4
+R077,25695,0.5,177,Asphalt,28,Poor,0
+R007,36290,0.53,178,Gravel,13,Satisfactory,2
+R045,25670,0.45,197,Gravel,7,Very Poor,0
+R037,14017,0.33,40,Concrete,23,Satisfactory,6
+R070,17713,0.16,167,Concrete,39,Good,9
+R090,31588,0.23,233,Asphalt,13,Satisfactory,2
+R084,14882,0.59,26,Asphalt,40,Very Poor,0
+R088,36966,0.29,172,Gravel,48,Good,6
+R029,34257,0.32,69,Gravel,15,Satisfactory,3
+R095,30821,0.48,287,Gravel,4,Good,6
+R087,12491,0.25,26,Asphalt,12,Poor,0
+R058,13073,0.34,31,Asphalt,26,Poor,3
+R044,26427,0.48,16,Asphalt,29,Satisfactory,2
+R052,49064,0.26,88,Asphalt,32,Good,9
+R019,49569,0.18,235,Concrete,29,Satisfactory,2
+R080,19288,0.15,48,Asphalt,15,Good,14
+R046,28411,0.52,184,Asphalt,14,Satisfactory,2
+R065,8093,0.17,204,Asphalt,17,Satisfactory,5
+R037,33602,0.58,156,Gravel,57,Good,3
+R047,37196,0.59,266,Asphalt,58,Very Poor,0
+R083,49923,0.46,171,Concrete,35,Good,4
+R018,31385,0.53,217,Concrete,27,Poor,0
+R005,39375,0.18,154,Asphalt,29,Very Poor,0
+R012,8380,0.18,36,Asphalt,46,Poor,0
+R099,22343,0.25,33,Gravel,58,Poor,0
+R036,20251,0.5,162,Gravel,30,Very Poor,0
+R009,16536,0.4,237,Gravel,9,Good,7
+R039,10109,0.26,81,Gravel,11,Satisfactory,3
+R055,34759,0.33,81,Concrete,21,Good,9
+R064,22773,0.59,175,Asphalt,32,Very Poor,0
+R017,11154,0.45,298,Gravel,38,Poor,0
+R061,35087,0.46,188,Gravel,24,Very Poor,0
+R092,14768,0.22,55,Asphalt,32,Very Poor,0
+R005,13783,0.34,101,Concrete,20,Very Poor,0
+R003,40488,0.38,251,Concrete,33,Good,3
+R063,23333,0.12,125,Gravel,26,Poor,0
+R049,48201,0.59,99,Gravel,46,Satisfactory,2
+R089,5105,0.18,132,Asphalt,6,Poor,1
+R099,23440,0.57,232,Gravel,32,Good,4
+R031,41679,0.46,93,Asphalt,47,Poor,0
+R046,29826,0.34,93,Asphalt,16,Poor,0
+R001,13601,0.34,136,Concrete,41,Very Poor,0
+R010,34545,0.32,21,Gravel,23,Satisfactory,5
+R078,49555,0.18,252,Gravel,58,Very Poor,0
+R003,36890,0.59,182,Asphalt,8,Good,5
+R045,31911,0.35,91,Asphalt,6,Satisfactory,6
+R043,44825,0.43,46,Asphalt,32,Poor,0
+R079,19025,0.3,102,Gravel,54,Very Poor,0
+R081,38120,0.52,222,Asphalt,31,Satisfactory,4
+R032,5956,0.52,13,Concrete,28,Very Poor,0
+R065,30963,0.48,161,Asphalt,50,Satisfactory,2
+R037,11563,0.11,237,Gravel,2,Very Poor,0
+R078,31958,0.55,271,Concrete,39,Satisfactory,2
+R018,17201,0.6,195,Gravel,54,Satisfactory,2
+R099,38297,0.42,234,Asphalt,35,Satisfactory,2
+R040,24975,0.3,96,Asphalt,42,Satisfactory,2
+R082,9648,0.22,120,Gravel,14,Poor,0
+R003,9599,0.39,93,Gravel,2,Very Poor,0
+R001,8814,0.18,37,Gravel,2,Good,18
+R049,37419,0.58,296,Gravel,11,Very Poor,0
+R049,49738,0.32,89,Asphalt,10,Very Poor,0
+R097,10724,0.27,266,Gravel,5,Good,12
+R067,43663,0.41,10,Concrete,57,Satisfactory,2
+R094,24576,0.4,184,Concrete,37,Satisfactory,2
+R010,20563,0.34,129,Gravel,44,Poor,0
+R054,23309,0.2,139,Asphalt,9,Good,10
+R027,30892,0.57,294,Asphalt,1,Satisfactory,2
+R012,33404,0.14,170,Asphalt,49,Satisfactory,2
+R079,38997,0.44,285,Concrete,53,Poor,0
+R001,5125,0.58,294,Concrete,57,Satisfactory,2
+R026,20398,0.33,187,Asphalt,23,Good,6
+R019,27911,0.17,243,Gravel,55,Very Poor,0
+R017,15225,0.19,273,Concrete,29,Poor,0
+R069,45287,0.22,95,Asphalt,47,Very Poor,0
+R002,43006,0.57,123,Gravel,18,Poor,0
+R020,36463,0.48,298,Gravel,1,Poor,0
+R044,36890,0.57,151,Gravel,53,Poor,0
+R047,13125,0.43,201,Asphalt,6,Satisfactory,6
+R030,10704,0.53,98,Concrete,48,Satisfactory,2
+R029,24614,0.47,107,Concrete,38,Very Poor,0
+R075,34165,0.56,28,Concrete,6,Good,10
+R043,41321,0.48,288,Asphalt,19,Satisfactory,2
+R066,45957,0.37,98,Gravel,21,Good,10
+R024,8726,0.42,208,Concrete,15,Satisfactory,2
+R069,43360,0.4,233,Gravel,49,Good,6
+R027,36010,0.21,276,Asphalt,35,Good,6
+R047,30537,0.33,12,Asphalt,21,Very Poor,0
+R033,33441,0.58,126,Concrete,29,Good,3
+R042,6177,0.15,142,Concrete,34,Very Poor,0
+R096,16556,0.22,237,Gravel,15,Satisfactory,5
+R082,21173,0.46,30,Gravel,23,Satisfactory,2
+R078,46974,0.55,126,Gravel,15,Very Poor,0
+R002,13906,0.29,286,Concrete,13,Very Poor,0
+R100,42650,0.15,61,Asphalt,46,Very Poor,0
+R072,41378,0.56,165,Gravel,35,Satisfactory,2
+R063,47641,0.3,86,Asphalt,4,Satisfactory,4
+R092,39905,0.16,272,Asphalt,31,Very Poor,0
+R084,49139,0.19,168,Asphalt,7,Very Poor,0
+R052,28486,0.15,45,Asphalt,20,Good,15
+R080,47368,0.29,182,Gravel,42,Satisfactory,2
+R003,16130,0.1,127,Concrete,21,Satisfactory,5
+R070,42384,0.42,130,Concrete,42,Good,6
+R071,11295,0.28,163,Concrete,27,Good,7
+R063,41451,0.31,211,Asphalt,25,Good,8
+R095,5145,0.48,251,Asphalt,5,Good,8
+R022,22633,0.34,158,Asphalt,17,Poor,0
+R006,46621,0.11,152,Gravel,35,Good,10
+R057,14160,0.3,263,Concrete,25,Poor,0
+R059,38537,0.24,272,Concrete,21,Poor,0
+R050,28164,0.46,250,Gravel,11,Satisfactory,3
+R071,49311,0.16,28,Concrete,4,Good,14
+R069,30766,0.49,45,Asphalt,40,Poor,0
+R070,12843,0.2,145,Gravel,33,Very Poor,0
+R099,15106,0.27,205,Asphalt,13,Very Poor,0
+R012,11704,0.52,14,Concrete,44,Very Poor,0
+R028,41378,0.42,273,Gravel,38,Good,6
+R089,45747,0.26,268,Concrete,22,Good,7
+R082,37581,0.13,181,Gravel,2,Very Poor,0
+R037,14686,0.33,273,Asphalt,22,Poor,0
+R069,47828,0.42,217,Asphalt,42,Good,3
+R032,28197,0.33,21,Concrete,17,Poor,0
+R075,12446,0.3,113,Concrete,54,Poor,0
+R064,31116,0.47,257,Asphalt,44,Poor,0
+R083,18395,0.41,240,Asphalt,32,Very Poor,0
+R039,16023,0.35,235,Gravel,14,Satisfactory,2
+R064,21163,0.25,123,Concrete,45,Satisfactory,2
+R015,35682,0.22,189,Gravel,23,Good,7
+R041,23073,0.4,271,Gravel,35,Satisfactory,2
+R075,10435,0.53,21,Concrete,47,Satisfactory,4
+R094,38328,0.16,91,Concrete,45,Poor,0
+R058,12629,0.5,16,Gravel,52,Poor,0
+R085,45461,0.14,172,Gravel,2,Satisfactory,3
+R005,12373,0.59,265,Concrete,10,Very Poor,0
+R027,10656,0.39,262,Asphalt,54,Very Poor,0
+R027,34984,0.56,279,Gravel,1,Poor,0
+R017,30709,0.55,247,Gravel,52,Very Poor,0
+R089,16138,0.58,34,Concrete,13,Good,8
+R064,44905,0.35,88,Asphalt,4,Good,9
+R053,45108,0.37,297,Gravel,32,Good,4
+R057,33179,0.32,169,Gravel,29,Very Poor,0
+R077,17330,0.41,69,Gravel,23,Satisfactory,4
+R097,11610,0.29,14,Asphalt,19,Good,11
+R077,41618,0.48,65,Gravel,15,Poor,0
+R024,30032,0.32,108,Asphalt,21,Poor,0
+R075,14074,0.19,261,Concrete,33,Very Poor,0
+R044,37003,0.42,49,Asphalt,17,Satisfactory,2
+R044,48108,0.41,230,Asphalt,52,Satisfactory,2
+R022,20422,0.5,200,Gravel,35,Poor,0
+R003,36238,0.36,23,Gravel,7,Poor,1
+R003,9481,0.17,255,Concrete,38,Satisfactory,3
+R069,12758,0.39,74,Gravel,13,Poor,0
+R028,49002,0.23,200,Asphalt,21,Satisfactory,2
+R051,34300,0.34,205,Asphalt,34,Poor,0
+R074,26223,0.51,230,Concrete,52,Satisfactory,2
+R021,35620,0.33,30,Gravel,42,Good,7
+R004,44040,0.5,57,Asphalt,29,Good,9
+R089,47080,0.52,241,Concrete,21,Poor,0
+R084,33602,0.33,88,Gravel,17,Satisfactory,6
+R029,12099,0.33,182,Asphalt,19,Poor,0
+R004,33758,0.46,118,Asphalt,51,Good,4
+R074,29034,0.11,142,Gravel,20,Satisfactory,3
+R094,14866,0.59,220,Asphalt,7,Poor,0
+R100,33138,0.31,270,Concrete,30,Satisfactory,2
+R013,44279,0.58,232,Asphalt,8,Satisfactory,2
+R044,40144,0.29,58,Concrete,36,Good,11
+R073,17504,0.37,199,Concrete,50,Good,6
+R004,39964,0.16,267,Asphalt,54,Satisfactory,2
+R012,8983,0.51,235,Asphalt,11,Good,6
+R045,21905,0.27,192,Gravel,9,Very Poor,0
+R098,27168,0.29,133,Concrete,58,Good,7
+R063,7461,0.56,181,Asphalt,32,Very Poor,0
+R055,38453,0.11,131,Concrete,32,Satisfactory,3
+R077,15736,0.23,27,Concrete,21,Satisfactory,6
+R036,19215,0.47,247,Gravel,7,Satisfactory,4
+R009,34334,0.43,212,Asphalt,22,Satisfactory,2
+R084,28387,0.12,267,Concrete,29,Good,9
+R061,29858,0.58,97,Concrete,44,Very Poor,0
+R077,48285,0.37,198,Concrete,33,Good,3
+R051,23450,0.18,39,Concrete,39,Very Poor,0
+R094,44019,0.42,137,Asphalt,37,Satisfactory,2
+R003,34806,0.18,195,Asphalt,16,Good,10
+R038,21832,0.24,233,Concrete,42,Good,7
+R056,49522,0.26,240,Asphalt,27,Poor,0
+R044,42900,0.37,95,Gravel,42,Very Poor,0
+R075,24033,0.52,21,Gravel,17,Poor,0
+R066,18944,0.58,29,Gravel,11,Good,11
+R079,17087,0.35,195,Concrete,4,Good,10
+R097,14596,0.42,33,Concrete,54,Good,4
+R070,43356,0.1,211,Asphalt,38,Good,10
+R100,43659,0.19,29,Gravel,17,Poor,0
+R016,34197,0.46,238,Asphalt,16,Poor,0
+R047,28225,0.38,263,Asphalt,24,Good,7
+R085,33731,0.26,220,Asphalt,22,Satisfactory,2
+R076,47092,0.47,126,Asphalt,31,Poor,0
+R032,21044,0.17,192,Gravel,49,Very Poor,0
+R099,15720,0.14,125,Gravel,49,Satisfactory,5
+R001,24194,0.5,127,Asphalt,45,Poor,0
+R077,35447,0.19,207,Asphalt,47,Very Poor,0
+R066,23509,0.47,146,Gravel,26,Very Poor,0
+R064,8471,0.2,70,Gravel,10,Poor,0
+R070,39865,0.18,116,Gravel,49,Satisfactory,5
+R064,40525,0.36,60,Gravel,53,Poor,0
+R081,22833,0.53,78,Concrete,29,Poor,0
+R071,30279,0.34,79,Concrete,26,Satisfactory,2
+R082,24715,0.12,138,Concrete,24,Satisfactory,6
+R049,18493,0.21,197,Concrete,57,Good,7
+R100,12710,0.56,45,Asphalt,21,Good,7
+R056,5162,0.24,279,Gravel,56,Poor,0
+R065,37591,0.29,115,Gravel,25,Satisfactory,2
+R076,7643,0.41,30,Concrete,4,Satisfactory,6
+R006,22073,0.31,16,Asphalt,6,Very Poor,0
+R068,36358,0.22,169,Gravel,56,Good,3
+R084,46903,0.57,163,Asphalt,44,Good,3
+R027,41727,0.23,174,Concrete,58,Very Poor,0
+R086,33228,0.43,227,Concrete,37,Very Poor,0
+R043,36703,0.27,170,Asphalt,50,Poor,0
+R006,20352,0.53,298,Concrete,17,Poor,0
+R049,14879,0.16,37,Gravel,58,Very Poor,0
+R063,23474,0.13,95,Asphalt,49,Very Poor,0
+R021,26008,0.41,207,Concrete,34,Very Poor,0
+R010,8648,0.31,14,Concrete,2,Poor,0
+R053,5097,0.53,134,Asphalt,39,Very Poor,0
+R003,32733,0.25,68,Asphalt,10,Good,12
+R061,21994,0.13,58,Concrete,32,Very Poor,0
+R066,23708,0.18,77,Concrete,46,Satisfactory,4
+R018,19939,0.23,177,Concrete,58,Poor,0
+R077,44961,0.38,75,Gravel,25,Good,7
+R022,30643,0.37,236,Asphalt,6,Good,6
+R044,31390,0.51,187,Asphalt,43,Satisfactory,2
+R004,38243,0.48,94,Concrete,8,Very Poor,0
+R013,11710,0.42,247,Asphalt,40,Satisfactory,2
+R085,18521,0.18,277,Asphalt,2,Poor,0
+R089,5258,0.55,49,Asphalt,38,Very Poor,0
+R040,48936,0.4,17,Asphalt,37,Good,7
+R053,22071,0.18,269,Gravel,30,Very Poor,0
+R069,16205,0.58,284,Asphalt,32,Satisfactory,2
+R038,49918,0.58,72,Gravel,45,Very Poor,0
+R075,47870,0.16,167,Concrete,13,Satisfactory,2
+R047,6283,0.6,232,Concrete,59,Poor,0
+R055,41632,0.51,163,Concrete,5,Very Poor,0
+R099,37994,0.19,274,Gravel,52,Poor,0
+R094,49517,0.37,220,Gravel,44,Good,3
+R095,21087,0.35,140,Gravel,12,Poor,0
+R005,17763,0.36,286,Asphalt,28,Good,4
+R037,11450,0.33,84,Gravel,57,Poor,0
+R060,23710,0.41,159,Asphalt,17,Good,7
+R035,45718,0.23,298,Gravel,20,Very Poor,0
+R093,32516,0.44,75,Concrete,35,Very Poor,0
+R046,14127,0.1,56,Gravel,39,Good,14
+R061,15693,0.53,133,Concrete,1,Poor,0
+R003,14794,0.45,152,Gravel,21,Poor,0
+R036,11370,0.48,151,Gravel,36,Very Poor,0
+R029,21843,0.22,261,Asphalt,13,Good,8
+R037,26125,0.44,100,Asphalt,34,Satisfactory,2
+R034,20223,0.29,151,Gravel,36,Satisfactory,2
+R005,43429,0.5,93,Gravel,49,Very Poor,0
+R023,13472,0.31,279,Gravel,26,Very Poor,0
+R079,39518,0.16,92,Gravel,46,Good,8
+R005,20282,0.51,284,Gravel,9,Poor,0
+R023,18947,0.51,284,Gravel,47,Good,6
+R066,9493,0.21,173,Gravel,40,Poor,0
+R011,34492,0.25,231,Concrete,41,Good,6
+R051,10827,0.13,273,Concrete,2,Very Poor,0
+R023,21232,0.27,95,Gravel,41,Poor,0
+R006,14885,0.31,276,Gravel,46,Satisfactory,2
+R084,6492,0.36,285,Gravel,37,Satisfactory,2
+R098,7044,0.36,44,Concrete,17,Very Poor,0
+R045,25961,0.54,74,Concrete,8,Very Poor,0
+R094,28852,0.45,85,Asphalt,46,Good,7
+R019,47856,0.27,102,Asphalt,22,Good,12
+R049,35483,0.49,188,Asphalt,4,Poor,0
+R089,23230,0.36,37,Gravel,4,Good,11
+R012,16093,0.23,171,Concrete,27,Satisfactory,2
+R086,16190,0.59,81,Gravel,23,Very Poor,0
+R096,25389,0.14,162,Asphalt,18,Poor,0
+R033,46689,0.55,102,Gravel,45,Satisfactory,2
+R008,7800,0.41,151,Asphalt,35,Poor,0
+R061,10808,0.36,58,Asphalt,46,Satisfactory,2
+R041,22543,0.12,99,Gravel,39,Satisfactory,5
+R027,17605,0.3,242,Gravel,9,Good,11
+R088,10463,0.14,50,Asphalt,17,Poor,1
+R044,8112,0.11,201,Gravel,11,Very Poor,0
+R065,39285,0.6,136,Concrete,46,Very Poor,0
+R004,49199,0.31,81,Concrete,8,Poor,0
+R076,47092,0.4,249,Gravel,33,Poor,0
+R077,40820,0.51,186,Gravel,47,Satisfactory,2
+R047,6875,0.44,170,Concrete,36,Poor,0
+R096,15651,0.37,122,Asphalt,33,Poor,0
+R014,21715,0.14,152,Gravel,41,Good,9
+R047,25584,0.42,275,Asphalt,14,Very Poor,0
+R084,17497,0.17,210,Concrete,57,Satisfactory,2
+R084,45486,0.54,93,Concrete,6,Good,8
+R077,11439,0.51,277,Concrete,35,Satisfactory,2
+R083,7282,0.34,222,Concrete,49,Poor,0
+R088,43392,0.13,286,Asphalt,54,Satisfactory,2
+R088,22514,0.31,108,Concrete,45,Very Poor,0
+R090,29950,0.37,131,Asphalt,30,Very Poor,0
+R087,41027,0.21,297,Gravel,3,Satisfactory,6
+R079,8134,0.15,84,Asphalt,48,Good,7
+R081,15233,0.29,127,Concrete,36,Very Poor,0
+R074,25384,0.36,299,Asphalt,56,Very Poor,0
+R045,45603,0.32,205,Gravel,37,Poor,0
+R025,49179,0.27,211,Gravel,18,Poor,0
+R074,7011,0.1,135,Concrete,11,Satisfactory,9
+R073,27852,0.37,185,Gravel,52,Very Poor,0
+R021,31039,0.59,40,Concrete,4,Poor,0
+R099,10744,0.17,76,Gravel,11,Poor,0
+R055,23693,0.48,254,Concrete,30,Very Poor,0
+R034,7169,0.16,179,Concrete,37,Very Poor,0
+R056,36778,0.54,205,Asphalt,18,Very Poor,0
+R064,11139,0.37,294,Concrete,13,Very Poor,0
+R098,25538,0.58,118,Asphalt,32,Satisfactory,2
+R082,44919,0.49,78,Concrete,37,Very Poor,0
+R053,20848,0.38,171,Concrete,45,Poor,0
+R034,14569,0.23,60,Gravel,58,Good,9
+R089,5340,0.27,30,Gravel,44,Satisfactory,5
+R019,24840,0.39,289,Asphalt,35,Poor,0
+R001,42772,0.41,148,Asphalt,36,Poor,0
+R006,49695,0.41,174,Gravel,39,Satisfactory,2
+R024,23951,0.12,154,Concrete,37,Good,6
+R056,43975,0.4,276,Gravel,54,Good,3
+R094,6708,0.33,255,Asphalt,21,Very Poor,0
+R032,49789,0.5,14,Concrete,17,Very Poor,0
+R077,6207,0.24,55,Concrete,58,Satisfactory,4
+R038,43635,0.48,79,Concrete,55,Very Poor,0
+R030,45697,0.35,84,Gravel,33,Very Poor,0
+R009,18527,0.32,212,Gravel,57,Good,4
+R025,44410,0.39,188,Asphalt,53,Satisfactory,2
+R071,23354,0.4,248,Gravel,4,Satisfactory,2
+R089,46862,0.58,57,Asphalt,9,Good,5
+R099,19482,0.26,22,Gravel,47,Good,11
+R079,29045,0.21,217,Concrete,50,Satisfactory,3
+R027,26162,0.54,135,Gravel,21,Satisfactory,2
+R011,22611,0.5,161,Concrete,35,Good,7
+R088,16590,0.1,76,Concrete,1,Poor,3
+R034,8363,0.52,10,Gravel,15,Satisfactory,5
+R067,13068,0.51,210,Asphalt,1,Very Poor,0
+R013,25131,0.45,200,Concrete,40,Poor,0
+R040,33182,0.34,269,Gravel,30,Very Poor,0
+R033,39782,0.13,81,Gravel,3,Satisfactory,9
+R027,15207,0.14,70,Asphalt,19,Poor,4
+R073,43010,0.53,75,Gravel,40,Very Poor,0
+R058,10776,0.35,243,Asphalt,16,Very Poor,0
+R046,20717,0.13,22,Gravel,56,Satisfactory,2
+R073,7951,0.25,129,Asphalt,55,Poor,0
+R096,41469,0.26,62,Concrete,39,Poor,0
+R069,38204,0.12,62,Gravel,19,Very Poor,0
+R025,28864,0.48,40,Gravel,17,Good,7
+R092,21566,0.35,83,Gravel,10,Good,11
+R094,30235,0.44,23,Gravel,50,Poor,0
+R084,44323,0.22,62,Gravel,24,Satisfactory,5
+R071,23691,0.17,273,Concrete,18,Very Poor,0
+R039,14227,0.35,299,Concrete,18,Satisfactory,2
+R028,12927,0.41,84,Concrete,41,Very Poor,0
+R052,19027,0.3,250,Gravel,58,Good,5
+R088,49757,0.45,97,Asphalt,50,Very Poor,0
+R074,19087,0.1,166,Concrete,28,Satisfactory,6
+R001,45586,0.51,116,Asphalt,19,Poor,0
+R012,10571,0.49,150,Gravel,19,Satisfactory,2
+R006,7224,0.29,65,Gravel,12,Satisfactory,4
+R041,46430,0.35,226,Asphalt,56,Very Poor,0
+R004,28478,0.1,32,Concrete,21,Satisfactory,7
+R075,17180,0.54,110,Gravel,33,Satisfactory,2
+R063,33099,0.45,103,Asphalt,9,Poor,0
+R074,17820,0.34,220,Asphalt,12,Very Poor,0
+R013,6316,0.12,110,Asphalt,54,Satisfactory,3
+R047,27056,0.34,155,Asphalt,14,Good,10
+R008,10355,0.1,22,Asphalt,18,Very Poor,0
+R065,32364,0.51,40,Concrete,2,Satisfactory,5
+R057,35154,0.47,109,Concrete,45,Poor,0
+R069,47838,0.4,171,Asphalt,9,Poor,0
+R055,28554,0.26,158,Asphalt,28,Poor,0
+R081,13547,0.14,244,Gravel,35,Satisfactory,4
+R083,15293,0.36,53,Gravel,47,Poor,0
+R036,7100,0.44,22,Asphalt,37,Very Poor,0
+R045,23199,0.52,147,Asphalt,35,Satisfactory,2
+R011,39832,0.55,33,Gravel,29,Good,7
+R018,36128,0.58,197,Gravel,26,Very Poor,0
+R096,31853,0.48,128,Concrete,28,Good,4
+R003,16867,0.59,292,Gravel,54,Good,3
+R068,49724,0.14,184,Gravel,30,Poor,0
+R079,33038,0.11,162,Asphalt,33,Very Poor,0
+R045,9025,0.21,135,Concrete,12,Very Poor,0
+R038,38487,0.25,144,Concrete,36,Poor,0
+R008,25936,0.37,273,Asphalt,33,Very Poor,0
+R057,32606,0.49,54,Asphalt,22,Very Poor,0
+R061,29770,0.46,166,Gravel,34,Poor,0
+R012,43011,0.34,227,Concrete,4,Poor,0
+R084,26607,0.57,142,Gravel,56,Good,3
+R039,21616,0.2,99,Gravel,44,Very Poor,0
+R055,48369,0.55,34,Concrete,10,Very Poor,0
+R002,36226,0.39,276,Concrete,13,Very Poor,0
+R093,18379,0.29,58,Asphalt,47,Poor,0
+R085,28091,0.27,197,Concrete,57,Satisfactory,2
+R081,41081,0.45,14,Concrete,20,Poor,0
+R008,10939,0.22,257,Gravel,54,Very Poor,0
+R062,39464,0.58,235,Asphalt,15,Very Poor,0
+R002,24167,0.35,286,Asphalt,46,Very Poor,0
+R007,32076,0.41,71,Asphalt,22,Satisfactory,3
+R069,48309,0.32,231,Asphalt,3,Good,10
+R054,42853,0.53,17,Gravel,44,Good,7
+R041,29272,0.59,59,Gravel,11,Very Poor,0
+R020,18979,0.43,178,Concrete,16,Good,9
+R059,17867,0.58,57,Asphalt,56,Satisfactory,2
+R087,44954,0.19,163,Gravel,6,Very Poor,0
+R060,5619,0.5,68,Asphalt,34,Poor,0
+R031,39064,0.58,254,Gravel,16,Very Poor,0
+R071,10366,0.3,17,Asphalt,30,Very Poor,0
+R044,41191,0.25,103,Concrete,1,Good,14
+R078,41435,0.38,102,Asphalt,22,Satisfactory,2
+R049,32691,0.11,83,Concrete,36,Poor,0
+R079,41777,0.5,225,Asphalt,42,Very Poor,0
+R089,9967,0.52,100,Asphalt,22,Poor,0
+R089,32236,0.22,150,Asphalt,45,Very Poor,0
+R033,17297,0.55,257,Asphalt,55,Poor,0
+R028,38396,0.12,108,Concrete,49,Poor,0
+R024,25058,0.24,26,Concrete,18,Very Poor,0
+R080,46075,0.29,190,Concrete,27,Satisfactory,2
+R013,20417,0.54,125,Asphalt,23,Satisfactory,2
+R087,34961,0.52,50,Asphalt,41,Very Poor,0
+R025,39681,0.58,287,Asphalt,34,Satisfactory,2
+R091,17996,0.46,158,Concrete,35,Very Poor,0
+R087,15521,0.52,118,Asphalt,7,Good,10
+R031,28854,0.55,163,Concrete,40,Satisfactory,2
+R052,48798,0.34,251,Asphalt,52,Very Poor,0
+R055,40948,0.4,50,Gravel,48,Very Poor,0
+R020,32794,0.4,55,Concrete,28,Very Poor,0
+R064,49525,0.14,280,Concrete,35,Satisfactory,2
+R071,40236,0.33,289,Concrete,27,Satisfactory,2
+R003,24991,0.28,13,Gravel,3,Satisfactory,9
+R036,21673,0.54,190,Concrete,56,Very Poor,0
+R061,28155,0.31,78,Asphalt,31,Satisfactory,4
+R053,37252,0.31,63,Asphalt,6,Good,10
+R031,39148,0.46,177,Asphalt,7,Good,9
+R091,29917,0.46,47,Gravel,51,Good,6
+R096,35206,0.42,178,Asphalt,5,Poor,0
+R086,40517,0.51,121,Gravel,27,Very Poor,0
+R019,21589,0.16,56,Concrete,54,Poor,0
+R040,25195,0.59,31,Gravel,21,Satisfactory,2
+R061,49602,0.31,211,Concrete,32,Very Poor,0
+R090,42306,0.23,263,Concrete,9,Satisfactory,2
+R066,14168,0.58,19,Asphalt,22,Satisfactory,4
+R083,27963,0.42,132,Concrete,21,Poor,0
+R089,16108,0.15,200,Asphalt,25,Satisfactory,2
+R043,25238,0.46,207,Gravel,1,Poor,0
+R072,30582,0.45,176,Asphalt,57,Good,5
+R080,23908,0.17,79,Asphalt,6,Satisfactory,5
+R073,6363,0.59,12,Concrete,17,Very Poor,0
+R050,46520,0.46,184,Gravel,45,Poor,0
+R097,44874,0.34,109,Concrete,32,Good,8
+R082,38919,0.55,52,Gravel,52,Poor,0
+R093,31400,0.59,198,Gravel,55,Poor,0
+R022,19211,0.38,177,Asphalt,19,Satisfactory,2
+R089,49367,0.53,22,Concrete,48,Satisfactory,2
+R013,6855,0.46,156,Asphalt,12,Very Poor,0
+R010,9986,0.54,98,Gravel,20,Good,10
+R004,31113,0.54,16,Gravel,14,Very Poor,0
+R068,46334,0.39,281,Gravel,55,Poor,0
+R085,26074,0.41,133,Concrete,33,Very Poor,0
+R074,5112,0.11,62,Concrete,11,Satisfactory,7
+R078,24552,0.32,78,Gravel,54,Good,4
+R081,5887,0.49,59,Gravel,48,Good,10
+R086,31049,0.2,176,Concrete,4,Good,8
+R086,44200,0.42,191,Gravel,7,Satisfactory,2
+R016,29703,0.48,257,Gravel,20,Satisfactory,2
+R031,28580,0.26,211,Gravel,41,Poor,0
+R010,21901,0.37,178,Gravel,5,Poor,0
+R037,49505,0.39,228,Asphalt,49,Poor,0
+R056,27625,0.34,217,Concrete,2,Good,7
+R057,10755,0.37,175,Gravel,22,Very Poor,0
+R058,29729,0.4,228,Concrete,29,Good,9
+R027,34267,0.15,299,Concrete,22,Very Poor,0
+R024,21194,0.29,292,Concrete,10,Satisfactory,2
+R088,17360,0.45,57,Gravel,6,Poor,0
+R042,23689,0.53,74,Asphalt,19,Good,6
+R098,47137,0.32,88,Asphalt,59,Poor,0
+R022,39039,0.39,107,Asphalt,30,Satisfactory,2
+R043,46243,0.41,77,Concrete,7,Very Poor,0
+R061,22200,0.37,92,Gravel,1,Very Poor,0
+R040,45585,0.3,246,Asphalt,46,Satisfactory,2
+R031,13367,0.43,292,Concrete,54,Poor,0
+R085,17977,0.15,136,Concrete,25,Satisfactory,2
+R078,8676,0.36,257,Asphalt,28,Poor,0
+R036,49816,0.37,50,Concrete,42,Good,5
+R075,15278,0.2,160,Asphalt,47,Poor,0
+R037,35131,0.11,72,Asphalt,33,Good,9
+R062,10039,0.56,212,Asphalt,50,Satisfactory,2
+R028,32586,0.21,170,Gravel,11,Poor,0
+R083,31249,0.54,136,Concrete,19,Satisfactory,3
+R025,10283,0.57,86,Concrete,56,Poor,0
+R094,36552,0.23,100,Concrete,46,Satisfactory,2
+R066,35471,0.13,218,Gravel,9,Poor,0
+R038,21678,0.23,293,Concrete,33,Very Poor,0
+R047,31293,0.53,65,Concrete,59,Very Poor,0
+R068,40585,0.42,132,Asphalt,38,Poor,0
+R007,23425,0.35,123,Asphalt,43,Satisfactory,2
+R023,12352,0.2,223,Asphalt,7,Good,12
+R078,41412,0.33,97,Asphalt,4,Satisfactory,2
+R014,40842,0.3,251,Concrete,57,Very Poor,0
+R030,6637,0.18,142,Concrete,49,Satisfactory,2
+R024,40529,0.57,251,Concrete,7,Satisfactory,2
+R030,20954,0.16,78,Gravel,1,Satisfactory,8
+R060,37963,0.56,292,Concrete,56,Poor,0
+R047,37828,0.28,61,Asphalt,24,Satisfactory,4
+R035,11296,0.51,41,Concrete,55,Very Poor,0
+R057,49895,0.49,119,Asphalt,42,Satisfactory,2
+R050,16087,0.54,222,Concrete,9,Very Poor,0
+R054,22413,0.38,44,Concrete,39,Good,7
+R097,5661,0.36,270,Asphalt,42,Poor,0
+R020,29527,0.47,223,Concrete,9,Poor,0
+R099,32886,0.44,150,Gravel,32,Very Poor,0
+R026,49589,0.29,121,Concrete,23,Satisfactory,5
+R061,25929,0.37,117,Gravel,18,Satisfactory,2
+R065,18917,0.18,298,Concrete,30,Very Poor,0
+R075,46680,0.31,131,Gravel,10,Good,11
+R022,34345,0.36,37,Concrete,11,Good,14
+R061,31829,0.18,56,Gravel,54,Good,7
+R014,8453,0.58,81,Gravel,43,Good,4
+R082,43396,0.31,298,Asphalt,33,Poor,0
+R018,42865,0.19,150,Concrete,54,Good,7
+R012,6920,0.42,248,Asphalt,13,Good,7
+R044,32964,0.27,137,Gravel,24,Satisfactory,6
+R005,11160,0.2,291,Concrete,49,Good,7
+R013,30396,0.49,71,Asphalt,17,Poor,0
+R041,44082,0.13,262,Concrete,3,Satisfactory,7
+R088,15655,0.46,153,Concrete,25,Very Poor,0
+R017,41661,0.46,129,Concrete,56,Good,5
+R052,38272,0.54,127,Gravel,41,Satisfactory,2
+R001,42825,0.3,280,Asphalt,3,Satisfactory,7
+R055,9234,0.14,39,Gravel,57,Poor,0
+R078,43759,0.58,229,Concrete,52,Very Poor,0
+R083,16064,0.59,91,Concrete,2,Poor,0
+R030,11476,0.5,29,Gravel,29,Very Poor,0
+R049,38402,0.12,12,Concrete,54,Satisfactory,5
+R012,32197,0.29,69,Concrete,52,Poor,0
+R015,7890,0.43,116,Gravel,32,Very Poor,0
+R073,13026,0.29,71,Gravel,49,Good,11
+R091,22889,0.49,216,Gravel,48,Satisfactory,2
+R016,31531,0.48,259,Concrete,58,Poor,0
+R091,40622,0.44,218,Concrete,35,Poor,0
+R011,29255,0.46,68,Asphalt,7,Very Poor,0
+R011,40931,0.2,229,Asphalt,6,Good,9
+R091,15966,0.4,286,Concrete,26,Very Poor,0
+R097,5489,0.39,71,Gravel,42,Poor,0
+R070,24275,0.34,278,Concrete,11,Poor,0
+R024,43712,0.22,103,Asphalt,30,Very Poor,0
+R065,11859,0.46,216,Concrete,16,Poor,0
+R052,32216,0.39,187,Concrete,12,Satisfactory,2
+R046,12485,0.5,71,Asphalt,38,Good,3
+R023,15744,0.23,175,Concrete,3,Poor,0
+R085,27495,0.2,119,Concrete,13,Poor,1
+R073,5922,0.4,287,Asphalt,10,Poor,0
+R037,48395,0.33,213,Gravel,33,Very Poor,0
+R027,20899,0.21,174,Gravel,22,Good,10
+R046,6093,0.31,105,Asphalt,35,Good,10
+R088,38457,0.49,226,Asphalt,56,Good,4
+R090,5365,0.54,241,Gravel,29,Good,8
+R056,37001,0.47,191,Gravel,38,Poor,0
+R100,40503,0.51,149,Asphalt,43,Satisfactory,3
+R033,24212,0.17,196,Asphalt,21,Poor,0
+R048,9594,0.3,95,Asphalt,38,Very Poor,0
+R038,48469,0.56,192,Gravel,15,Good,4
+R094,26188,0.53,147,Asphalt,19,Poor,0
+R087,15776,0.13,38,Asphalt,19,Very Poor,0
+R044,15922,0.44,70,Gravel,43,Satisfactory,5
+R081,16094,0.56,119,Concrete,34,Very Poor,0
+R017,11838,0.41,200,Asphalt,59,Good,8
+R007,9996,0.6,277,Concrete,50,Good,4
+R076,29229,0.4,212,Asphalt,32,Poor,0
+R008,33554,0.52,164,Gravel,55,Poor,0
+R099,41182,0.45,191,Concrete,10,Satisfactory,2
+R056,5917,0.18,73,Gravel,7,Very Poor,0
+R065,44104,0.19,223,Asphalt,50,Satisfactory,2
+R036,26133,0.13,121,Gravel,33,Poor,0
+R051,13566,0.19,216,Gravel,12,Very Poor,0
+R035,39087,0.5,231,Gravel,38,Very Poor,0
+R096,7690,0.42,99,Asphalt,30,Very Poor,0
+R057,41876,0.18,239,Asphalt,2,Good,9
+R040,29519,0.15,159,Gravel,20,Very Poor,0
+R039,28559,0.13,218,Asphalt,20,Very Poor,0
+R050,34299,0.22,244,Asphalt,7,Good,10
+R011,22359,0.53,248,Gravel,56,Satisfactory,2
+R021,27615,0.54,82,Asphalt,35,Good,5
+R084,33850,0.12,243,Concrete,17,Satisfactory,3
+R092,38998,0.52,231,Concrete,46,Good,3
+R061,19715,0.13,128,Concrete,12,Good,12
+R092,37093,0.25,20,Asphalt,34,Satisfactory,5
+R091,27449,0.31,67,Gravel,34,Satisfactory,2
+R080,7775,0.15,61,Asphalt,15,Good,13
+R003,24539,0.59,135,Concrete,57,Satisfactory,2
+R024,15295,0.18,119,Asphalt,8,Very Poor,0
+R043,38629,0.11,147,Asphalt,39,Very Poor,0
+R003,49571,0.28,134,Asphalt,13,Satisfactory,3
+R046,21351,0.59,291,Gravel,22,Good,3
+R003,17453,0.53,287,Gravel,2,Poor,0
+R015,28926,0.45,105,Asphalt,5,Good,12
+R022,24583,0.17,121,Concrete,23,Good,10
+R012,24520,0.33,115,Asphalt,53,Good,4
+R073,10208,0.39,115,Concrete,15,Satisfactory,2
+R004,43862,0.37,176,Gravel,13,Satisfactory,2
+R046,19031,0.43,47,Gravel,19,Poor,0
+R096,11587,0.28,236,Concrete,48,Good,3
+R074,49739,0.31,233,Gravel,40,Good,3
+R063,39700,0.54,238,Gravel,6,Satisfactory,3
+R007,6881,0.53,141,Concrete,39,Poor,0
+R038,48852,0.43,200,Asphalt,38,Satisfactory,2
+R066,28963,0.35,255,Asphalt,34,Satisfactory,2
+R067,38487,0.24,209,Asphalt,55,Good,3
+R080,30805,0.23,265,Concrete,59,Satisfactory,2
+R009,12243,0.38,296,Concrete,29,Good,4
+R009,24800,0.11,296,Concrete,21,Very Poor,0
+R084,16001,0.36,22,Concrete,45,Good,10
+R015,15878,0.4,285,Concrete,52,Good,3
+R064,8968,0.28,282,Asphalt,24,Satisfactory,2
+R042,8129,0.22,228,Asphalt,45,Very Poor,0
+R090,45214,0.25,273,Asphalt,59,Good,3
+R057,29486,0.1,165,Gravel,25,Good,9
+R032,23108,0.18,11,Concrete,54,Very Poor,0
+R016,38489,0.36,295,Gravel,39,Satisfactory,2
+R036,35957,0.51,278,Concrete,43,Very Poor,0
+R009,35676,0.48,121,Gravel,55,Good,5
+R034,44760,0.36,125,Gravel,15,Good,8
+R054,44390,0.16,189,Gravel,30,Poor,0
+R098,6848,0.32,191,Concrete,47,Good,3
+R045,39574,0.33,246,Concrete,14,Good,6
+R095,18304,0.4,81,Gravel,27,Poor,0
+R034,41071,0.2,148,Asphalt,39,Good,5
+R086,27800,0.21,230,Concrete,21,Good,9
+R081,42253,0.28,111,Gravel,37,Very Poor,0
+R042,30068,0.51,209,Gravel,41,Good,4
+R051,47928,0.22,148,Gravel,24,Very Poor,0
+R054,32796,0.58,72,Gravel,40,Good,5
+R080,14221,0.44,37,Asphalt,2,Good,12
+R015,14765,0.57,253,Asphalt,4,Satisfactory,2
+R048,16939,0.58,67,Asphalt,32,Very Poor,0
+R021,34648,0.45,256,Concrete,46,Very Poor,0
+R042,11226,0.26,247,Asphalt,40,Very Poor,0
+R084,35391,0.32,219,Gravel,48,Very Poor,0
+R024,37551,0.37,217,Concrete,50,Poor,0
+R004,25389,0.13,146,Concrete,47,Poor,0
+R044,27999,0.27,246,Asphalt,25,Good,4
+R052,45446,0.35,259,Asphalt,24,Good,9
+R080,14497,0.42,19,Concrete,19,Good,10
+R014,13002,0.25,204,Concrete,58,Good,8
+R014,37299,0.31,171,Concrete,23,Satisfactory,2
+R017,23782,0.28,149,Concrete,23,Satisfactory,2
+R046,11511,0.24,98,Concrete,2,Good,10
+R033,9765,0.57,158,Gravel,25,Good,7
+R082,18780,0.47,262,Gravel,15,Very Poor,0
+R008,45953,0.25,34,Gravel,21,Poor,0
+R078,14175,0.16,79,Concrete,49,Good,10
+R026,17948,0.51,223,Asphalt,40,Good,3
+R052,14878,0.45,49,Concrete,50,Good,8
+R060,8783,0.51,70,Gravel,5,Very Poor,0
+R043,39484,0.33,65,Gravel,59,Good,6
+R093,39028,0.39,206,Gravel,9,Very Poor,0
+R029,35266,0.4,197,Gravel,51,Poor,0
+R026,42707,0.54,214,Asphalt,59,Satisfactory,2
+R028,35663,0.25,229,Gravel,58,Very Poor,0
+R025,34277,0.23,232,Gravel,58,Good,3
+R080,44454,0.13,85,Gravel,1,Good,10
+R056,26031,0.59,258,Asphalt,42,Poor,0
+R047,14424,0.14,108,Concrete,45,Very Poor,0
+R007,44613,0.5,26,Gravel,54,Poor,0
+R056,13848,0.52,87,Gravel,45,Satisfactory,2
+R078,47222,0.17,152,Gravel,54,Satisfactory,2
+R035,14968,0.24,172,Gravel,6,Good,9
+R053,5406,0.37,35,Asphalt,47,Very Poor,0
+R088,49036,0.26,207,Concrete,59,Satisfactory,2
+R045,35143,0.41,282,Gravel,57,Good,3
+R011,19719,0.22,28,Concrete,43,Good,11
+R005,20086,0.43,109,Concrete,35,Poor,0
+R076,23279,0.26,154,Concrete,7,Satisfactory,3
+R010,42952,0.32,173,Asphalt,13,Very Poor,0
+R083,14343,0.43,248,Asphalt,4,Very Poor,0
+R070,38575,0.18,229,Gravel,16,Good,8
+R022,30883,0.36,203,Asphalt,31,Satisfactory,2
+R046,33807,0.35,180,Asphalt,31,Good,7
+R083,44887,0.3,239,Gravel,18,Poor,0
+R012,36601,0.44,230,Gravel,39,Satisfactory,2
+R013,24094,0.52,131,Gravel,46,Poor,0
+R082,44531,0.29,15,Concrete,32,Satisfactory,2
+R061,11009,0.36,238,Gravel,10,Poor,0
+R090,46989,0.26,115,Concrete,11,Good,11
+R071,26438,0.3,223,Asphalt,56,Satisfactory,2
+R039,48461,0.32,202,Gravel,20,Very Poor,0
+R083,23581,0.49,276,Gravel,13,Very Poor,0
+R066,32386,0.49,85,Gravel,23,Very Poor,0
+R056,49301,0.44,122,Asphalt,59,Satisfactory,2
+R079,40699,0.37,39,Gravel,25,Very Poor,0
+R031,40739,0.17,257,Asphalt,48,Very Poor,0
+R072,34166,0.48,215,Gravel,42,Satisfactory,2
+R049,30592,0.45,103,Concrete,55,Good,4
+R010,47761,0.22,20,Gravel,21,Good,9
+R044,11548,0.57,218,Concrete,2,Good,6
+R074,43965,0.21,281,Concrete,49,Very Poor,0
+R065,13378,0.39,271,Gravel,57,Very Poor,0
+R086,18675,0.26,248,Asphalt,48,Good,6
+R060,40113,0.39,255,Gravel,2,Poor,0
+R003,9686,0.24,272,Concrete,47,Poor,0
+R078,17205,0.2,21,Concrete,13,Satisfactory,8
+R043,21848,0.21,17,Gravel,5,Poor,2
+R089,42583,0.2,127,Gravel,29,Very Poor,0
+R023,36918,0.54,160,Gravel,16,Poor,0
+R031,39172,0.32,204,Asphalt,15,Poor,0
+R033,20790,0.36,284,Asphalt,13,Very Poor,0
+R065,26097,0.2,174,Gravel,27,Very Poor,0
+R029,28862,0.18,157,Concrete,25,Poor,0
+R085,40733,0.16,155,Concrete,5,Poor,0
+R060,46909,0.12,54,Asphalt,19,Very Poor,0
+R100,25950,0.5,230,Asphalt,36,Very Poor,0
+R076,40349,0.27,240,Concrete,51,Satisfactory,2
+R054,27766,0.5,157,Gravel,9,Poor,0
+R038,22695,0.51,14,Gravel,20,Satisfactory,4
+R031,38045,0.44,299,Concrete,13,Good,8
+R079,44560,0.18,144,Gravel,4,Satisfactory,6
+R040,40230,0.24,190,Concrete,32,Good,10
+R003,27337,0.32,147,Asphalt,2,Very Poor,0
+R067,40131,0.43,153,Gravel,16,Satisfactory,3
+R071,38654,0.15,104,Gravel,17,Very Poor,0
+R058,28776,0.35,56,Concrete,28,Very Poor,0
+R099,26684,0.48,115,Gravel,24,Satisfactory,2
+R006,15770,0.16,180,Gravel,11,Satisfactory,4
+R099,7537,0.54,191,Gravel,2,Satisfactory,4
+R083,29368,0.44,191,Asphalt,30,Very Poor,0
+R047,18907,0.24,290,Asphalt,32,Poor,0
+R035,46804,0.43,51,Concrete,47,Satisfactory,2
+R085,34092,0.43,246,Concrete,22,Good,5
+R095,34978,0.47,171,Concrete,32,Poor,0
+R066,49632,0.56,82,Asphalt,12,Very Poor,0
+R093,30097,0.14,235,Concrete,48,Satisfactory,2
+R042,33992,0.44,173,Concrete,24,Good,5
+R058,18210,0.42,66,Concrete,14,Satisfactory,6
+R086,32236,0.39,134,Gravel,39,Satisfactory,2
+R061,21663,0.28,119,Concrete,14,Very Poor,0
+R024,35564,0.4,171,Concrete,58,Good,3
+R071,18731,0.46,136,Asphalt,16,Very Poor,0
+R054,7776,0.25,173,Gravel,20,Poor,0
+R012,12697,0.39,160,Gravel,32,Satisfactory,2
+R042,10060,0.43,113,Gravel,51,Satisfactory,2
+R039,10581,0.32,215,Concrete,6,Poor,0
+R043,23748,0.27,297,Gravel,15,Good,7
+R018,30256,0.33,53,Gravel,34,Satisfactory,4
+R050,28382,0.46,215,Asphalt,15,Poor,0
+R035,5864,0.11,282,Asphalt,28,Very Poor,0
+R010,42997,0.11,297,Gravel,40,Poor,0
+R065,14726,0.37,287,Gravel,2,Satisfactory,3
+R053,19252,0.59,228,Gravel,25,Good,3
+R007,12754,0.51,63,Gravel,24,Good,4
+R080,9042,0.37,227,Asphalt,16,Very Poor,0
+R050,44522,0.55,202,Asphalt,58,Good,3
+R026,34377,0.44,17,Asphalt,29,Satisfactory,2
+R065,7994,0.28,197,Gravel,35,Poor,0
+R030,23028,0.23,176,Gravel,4,Very Poor,0
+R016,21626,0.35,111,Asphalt,27,Poor,0
+R053,11828,0.49,197,Asphalt,57,Satisfactory,2
+R094,47932,0.5,52,Asphalt,19,Good,4
+R044,25423,0.16,249,Asphalt,51,Very Poor,0
+R039,30625,0.25,86,Asphalt,28,Very Poor,0
+R029,18331,0.43,249,Gravel,39,Good,4
+R090,33621,0.12,51,Concrete,27,Very Poor,0
+R072,20882,0.12,284,Concrete,6,Satisfactory,4
+R003,38709,0.4,229,Concrete,1,Very Poor,0
+R008,18543,0.37,61,Asphalt,54,Very Poor,0
+R044,23350,0.28,276,Concrete,39,Satisfactory,2
+R007,12833,0.49,149,Gravel,43,Poor,0
+R054,16826,0.56,55,Gravel,53,Good,5
+R087,13792,0.52,63,Asphalt,57,Poor,0
+R074,48123,0.44,84,Asphalt,32,Good,6
+R055,15762,0.29,224,Gravel,45,Very Poor,0
+R005,46750,0.26,244,Concrete,47,Good,7
+R097,9633,0.51,38,Concrete,19,Very Poor,0
+R030,12008,0.35,44,Gravel,30,Poor,0
+R022,23157,0.28,102,Asphalt,45,Good,8
+R030,19414,0.33,226,Concrete,51,Good,3
+R015,30081,0.13,96,Concrete,25,Satisfactory,9
+R062,41358,0.42,219,Gravel,49,Good,3
+R012,5390,0.36,239,Concrete,27,Satisfactory,2
+R079,40328,0.18,197,Concrete,34,Good,7
+R039,13693,0.13,10,Gravel,7,Good,14
+R046,35908,0.39,262,Gravel,24,Poor,0
+R061,10930,0.38,155,Asphalt,28,Poor,0
+R081,5507,0.54,56,Asphalt,59,Satisfactory,4
+R055,18840,0.36,48,Concrete,41,Very Poor,0
+R095,41483,0.2,287,Concrete,11,Satisfactory,2
+R047,11411,0.51,27,Concrete,26,Satisfactory,4
+R074,13448,0.26,96,Concrete,26,Satisfactory,4
+R022,11533,0.46,209,Gravel,24,Poor,0
+R079,15846,0.6,39,Gravel,57,Satisfactory,2
+R042,7080,0.17,21,Gravel,54,Satisfactory,2
+R083,22653,0.14,256,Concrete,29,Very Poor,0
+R042,6184,0.38,126,Gravel,15,Satisfactory,6
+R028,27195,0.11,181,Asphalt,54,Good,6
+R030,31347,0.48,195,Asphalt,33,Good,4
+R086,37698,0.2,20,Gravel,4,Satisfactory,6
+R079,34793,0.5,31,Concrete,2,Satisfactory,2
+R052,24627,0.57,34,Asphalt,55,Satisfactory,2
+R024,27366,0.37,233,Asphalt,28,Very Poor,0
+R031,17466,0.41,274,Gravel,58,Good,6
+R083,42292,0.51,224,Asphalt,5,Satisfactory,2
+R040,17070,0.29,132,Asphalt,47,Very Poor,0
+R079,10506,0.19,38,Asphalt,15,Poor,4
+R057,13226,0.13,120,Asphalt,38,Poor,0
+R070,14095,0.24,131,Concrete,20,Very Poor,0
+R082,42038,0.35,94,Gravel,3,Very Poor,0
+R023,21940,0.38,25,Asphalt,13,Satisfactory,9
+R076,11477,0.58,24,Concrete,7,Satisfactory,8
+R014,35720,0.27,217,Concrete,46,Satisfactory,2
+R077,43599,0.25,21,Asphalt,25,Very Poor,0
+R015,33112,0.5,288,Concrete,43,Good,4
+R077,32672,0.17,150,Concrete,43,Good,9
+R031,32281,0.44,101,Concrete,51,Satisfactory,2
+R041,35951,0.43,229,Concrete,33,Very Poor,0
+R066,12235,0.19,15,Gravel,16,Good,12
+R086,43679,0.26,103,Concrete,45,Good,6
+R047,6141,0.41,75,Asphalt,10,Satisfactory,4
+R024,39806,0.16,184,Gravel,12,Good,9
+R004,39552,0.42,156,Concrete,35,Very Poor,0
+R066,14190,0.22,247,Gravel,14,Very Poor,0
+R028,19892,0.21,242,Concrete,1,Poor,0
+R017,26042,0.47,223,Concrete,23,Good,4
+R088,47939,0.39,37,Gravel,59,Satisfactory,2
+R079,10296,0.58,108,Gravel,34,Good,5
+R062,20997,0.36,159,Gravel,16,Good,12
+R011,28067,0.44,182,Concrete,46,Satisfactory,2
+R065,33756,0.6,74,Gravel,6,Good,12
+R092,9758,0.25,167,Gravel,13,Very Poor,0
+R056,5490,0.27,234,Concrete,21,Satisfactory,7
+R074,26292,0.21,97,Gravel,51,Very Poor,0
+R052,34351,0.23,144,Asphalt,50,Satisfactory,2
+R063,23771,0.45,146,Asphalt,53,Very Poor,0
+R044,39924,0.31,30,Asphalt,26,Satisfactory,2
+R070,16440,0.17,110,Asphalt,54,Very Poor,0
+R002,11772,0.13,37,Asphalt,41,Satisfactory,6
+R072,35232,0.26,143,Concrete,11,Poor,0
+R018,27444,0.26,177,Asphalt,3,Good,8
+R062,10622,0.39,234,Asphalt,24,Good,5
+R014,27499,0.24,135,Gravel,43,Satisfactory,2
+R016,24937,0.55,235,Gravel,29,Very Poor,0
+R087,9818,0.41,191,Asphalt,51,Satisfactory,2
+R098,42344,0.23,245,Gravel,40,Very Poor,0
+R060,6462,0.29,54,Asphalt,6,Poor,0
+R060,39836,0.31,57,Asphalt,43,Satisfactory,2
+R045,26435,0.11,24,Gravel,4,Very Poor,0
+R027,6191,0.43,146,Concrete,26,Poor,0
+R076,32856,0.11,108,Asphalt,57,Poor,0
+R039,5787,0.5,120,Asphalt,2,Satisfactory,6
+R064,41444,0.57,118,Concrete,10,Satisfactory,2
+R043,5066,0.12,265,Concrete,9,Satisfactory,3
+R073,43498,0.55,173,Gravel,56,Very Poor,0
+R045,17940,0.44,83,Concrete,56,Satisfactory,2
+R095,37567,0.57,112,Concrete,40,Very Poor,0
+R065,18798,0.14,166,Asphalt,14,Satisfactory,4
+R015,5178,0.54,232,Asphalt,25,Good,4
+R024,36926,0.17,139,Concrete,25,Satisfactory,2
+R092,8084,0.31,229,Gravel,42,Poor,0
+R091,49130,0.31,201,Concrete,5,Poor,0
+R062,10074,0.3,153,Asphalt,24,Poor,0
+R076,6515,0.55,192,Concrete,14,Poor,0
+R011,10586,0.58,16,Gravel,30,Very Poor,0
+R066,36186,0.49,153,Asphalt,47,Poor,0
+R065,41561,0.26,92,Asphalt,42,Satisfactory,2
+R039,47256,0.25,16,Concrete,27,Poor,0
+R063,22297,0.57,294,Gravel,25,Poor,0
+R100,6462,0.35,161,Asphalt,11,Very Poor,0
+R015,49414,0.16,293,Concrete,3,Poor,0
+R015,26045,0.43,231,Asphalt,59,Satisfactory,2
+R007,27706,0.57,233,Concrete,22,Very Poor,0
+R030,10178,0.5,118,Asphalt,1,Good,8
+R036,13181,0.23,255,Asphalt,45,Satisfactory,2
+R003,5615,0.53,10,Asphalt,27,Good,9
+R078,8158,0.18,187,Asphalt,36,Poor,0
+R012,39980,0.36,218,Concrete,35,Very Poor,0
+R052,16695,0.51,233,Gravel,3,Very Poor,0
+R008,38139,0.57,108,Gravel,52,Good,7
+R006,34086,0.17,33,Asphalt,52,Good,9
+R089,43737,0.3,215,Gravel,50,Very Poor,0
+R022,10454,0.14,36,Asphalt,15,Good,13
+R006,26181,0.57,198,Asphalt,32,Poor,0
+R092,30855,0.11,250,Concrete,13,Satisfactory,3
+R044,31957,0.27,107,Gravel,18,Satisfactory,4
+R079,32125,0.33,201,Asphalt,25,Poor,0
+R045,20960,0.4,102,Concrete,20,Very Poor,0
+R012,20804,0.49,281,Gravel,50,Very Poor,0
+R084,24065,0.44,282,Gravel,16,Satisfactory,2
+R059,46401,0.12,141,Concrete,21,Very Poor,0
+R100,11054,0.26,90,Gravel,39,Very Poor,0
+R091,27852,0.23,25,Gravel,51,Poor,0
+R087,29426,0.56,223,Asphalt,22,Poor,0
+R057,40489,0.18,260,Gravel,46,Poor,0
+R022,44008,0.45,141,Asphalt,4,Good,9
+R096,15364,0.27,180,Concrete,59,Poor,0
+R001,38896,0.47,197,Asphalt,6,Satisfactory,2
+R060,10583,0.22,65,Asphalt,49,Good,12
+R045,11256,0.32,198,Gravel,42,Good,5
+R008,28185,0.53,295,Gravel,58,Very Poor,0
+R020,42729,0.33,80,Asphalt,56,Good,7
+R051,42333,0.49,77,Concrete,46,Satisfactory,2
+R062,33464,0.53,294,Gravel,21,Satisfactory,2
+R069,39635,0.58,193,Concrete,51,Poor,0
+R027,49229,0.27,74,Gravel,54,Satisfactory,2
+R011,49462,0.19,194,Gravel,55,Good,3
+R022,12995,0.31,295,Gravel,29,Very Poor,0
+R096,24989,0.59,135,Concrete,29,Very Poor,0
+R080,11568,0.37,40,Asphalt,30,Satisfactory,4
+R083,9368,0.26,216,Asphalt,46,Poor,0
+R047,28991,0.16,65,Concrete,55,Good,9
+R097,31532,0.19,228,Concrete,21,Poor,0
+R075,47511,0.18,70,Concrete,54,Poor,0
+R029,17352,0.52,201,Gravel,43,Satisfactory,2
+R033,37016,0.51,32,Gravel,7,Satisfactory,2
+R051,44725,0.58,215,Gravel,14,Satisfactory,2
+R008,18327,0.18,156,Gravel,2,Satisfactory,4
+R054,19820,0.51,159,Asphalt,32,Very Poor,0
+R097,48880,0.42,248,Asphalt,53,Very Poor,0
+R081,40897,0.14,54,Asphalt,33,Very Poor,0
+R017,10398,0.58,53,Gravel,27,Very Poor,0
+R048,11937,0.47,45,Gravel,45,Good,6
+R054,30142,0.3,194,Concrete,5,Good,10
+R097,45544,0.35,128,Concrete,16,Good,7
+R088,45860,0.27,88,Concrete,3,Good,10
+R093,28110,0.54,41,Gravel,31,Very Poor,0
+R055,48601,0.56,114,Asphalt,1,Poor,0
+R077,25028,0.26,233,Concrete,6,Very Poor,0
+R020,8174,0.41,99,Concrete,34,Good,9
+R077,12099,0.17,83,Concrete,51,Very Poor,0
+R062,25462,0.25,213,Asphalt,56,Satisfactory,3
+R017,46679,0.45,24,Asphalt,27,Poor,0
+R037,48194,0.5,139,Concrete,36,Poor,0
+R014,27641,0.54,280,Asphalt,25,Good,3
+R098,7121,0.46,185,Concrete,43,Good,8
+R009,24572,0.29,129,Asphalt,33,Good,8
+R066,14533,0.51,282,Concrete,53,Satisfactory,2
+R031,28345,0.58,177,Concrete,58,Good,3
+R002,17982,0.24,83,Concrete,45,Good,12
+R042,40089,0.46,221,Gravel,37,Satisfactory,2
+R046,40853,0.48,232,Gravel,4,Satisfactory,2
+R048,28889,0.35,56,Concrete,43,Very Poor,0
+R100,37363,0.12,88,Concrete,27,Satisfactory,2
+R057,42394,0.14,35,Concrete,25,Satisfactory,5
+R052,47137,0.27,101,Concrete,49,Very Poor,0
+R098,43367,0.34,284,Asphalt,17,Very Poor,0
+R058,35699,0.48,186,Gravel,56,Poor,0
+R022,34238,0.52,209,Gravel,52,Poor,0
+R055,44779,0.57,272,Concrete,46,Satisfactory,2
+R065,38980,0.47,138,Asphalt,49,Very Poor,0
+R088,20896,0.3,153,Asphalt,58,Poor,0
+R006,12367,0.47,143,Gravel,16,Good,12
+R073,47317,0.37,99,Concrete,14,Poor,0
+R087,45096,0.47,221,Asphalt,3,Good,6
+R035,16549,0.25,227,Asphalt,44,Very Poor,0
+R043,27432,0.45,225,Concrete,34,Very Poor,0
+R097,31905,0.36,75,Asphalt,42,Good,8
+R014,22864,0.28,214,Gravel,23,Good,5
+R038,44041,0.18,196,Asphalt,46,Good,5
+R070,9994,0.35,109,Asphalt,14,Satisfactory,2
+R045,29813,0.13,201,Concrete,36,Satisfactory,3
+R098,8089,0.26,132,Gravel,54,Poor,0
+R061,10190,0.38,28,Gravel,6,Satisfactory,9
+R038,39899,0.53,116,Gravel,37,Good,6
+R084,44434,0.24,78,Gravel,23,Good,10
+R100,31292,0.37,280,Concrete,3,Good,5
+R015,42268,0.47,276,Asphalt,38,Good,3
+R099,45775,0.56,44,Gravel,55,Good,4
+R004,41077,0.37,19,Gravel,58,Satisfactory,2
+R005,6936,0.16,232,Gravel,51,Good,5
+R028,35825,0.46,130,Asphalt,4,Very Poor,0
+R060,7244,0.16,21,Concrete,17,Very Poor,0
+R088,13521,0.4,134,Asphalt,51,Good,6
+R090,32518,0.22,11,Gravel,8,Poor,0
+R019,5739,0.2,221,Gravel,48,Poor,0
+R017,10127,0.49,262,Gravel,14,Good,7
+R020,14045,0.38,176,Gravel,20,Satisfactory,3
+R012,35935,0.29,138,Gravel,26,Satisfactory,2
+R088,20734,0.12,154,Concrete,51,Satisfactory,2
+R087,13433,0.13,60,Asphalt,10,Good,11
+R017,21453,0.41,48,Gravel,24,Very Poor,0
+R096,29503,0.48,253,Asphalt,32,Poor,0
+R075,47955,0.22,292,Gravel,10,Poor,0
+R057,49825,0.33,288,Concrete,34,Satisfactory,2
+R039,43968,0.13,296,Asphalt,7,Satisfactory,4
+R059,17817,0.15,238,Concrete,34,Very Poor,0
+R071,25914,0.39,255,Gravel,18,Good,5
+R061,45701,0.26,39,Asphalt,44,Satisfactory,2
+R062,46136,0.58,195,Concrete,26,Satisfactory,2
+R051,24619,0.36,22,Concrete,40,Satisfactory,5
+R071,44121,0.33,284,Asphalt,58,Satisfactory,2
+R041,47262,0.23,217,Asphalt,1,Poor,0
+R021,18304,0.34,66,Gravel,48,Satisfactory,2
+R089,16673,0.37,22,Gravel,19,Poor,1
+R005,14465,0.48,117,Asphalt,28,Very Poor,0
+R044,28121,0.29,267,Asphalt,37,Poor,0
+R083,11022,0.57,97,Gravel,12,Good,9
+R081,26691,0.5,280,Gravel,37,Very Poor,0
+R046,14612,0.42,178,Gravel,53,Poor,0
+R030,36085,0.25,257,Asphalt,7,Satisfactory,3
+R041,13446,0.41,237,Concrete,21,Good,8
+R092,32200,0.2,117,Gravel,26,Good,6
+R068,22392,0.59,160,Gravel,59,Good,3
+R086,38757,0.48,77,Asphalt,40,Poor,0
+R027,37152,0.1,99,Gravel,37,Good,10
+R031,29831,0.54,229,Gravel,9,Satisfactory,2
+R076,16957,0.41,108,Asphalt,5,Poor,0
+R095,32105,0.57,112,Gravel,42,Satisfactory,2
+R012,12242,0.57,190,Concrete,33,Very Poor,0
+R010,33742,0.45,209,Concrete,37,Poor,0
+R004,30343,0.6,180,Concrete,57,Good,3
+R063,13412,0.29,19,Concrete,12,Poor,0
+R053,46973,0.59,290,Gravel,23,Satisfactory,2
+R037,32586,0.42,155,Asphalt,43,Poor,0
+R029,41770,0.37,130,Gravel,55,Very Poor,0
+R053,13417,0.48,269,Concrete,29,Very Poor,0
+R039,42292,0.22,37,Asphalt,42,Very Poor,0
+R098,41175,0.13,78,Asphalt,34,Very Poor,0
+R013,24177,0.28,227,Gravel,17,Very Poor,0
+R032,23799,0.58,183,Concrete,42,Good,6
+R008,13624,0.24,208,Concrete,23,Very Poor,0
+R079,16824,0.45,256,Concrete,31,Satisfactory,2
+R046,46886,0.48,57,Asphalt,51,Satisfactory,2
+R001,26168,0.46,89,Gravel,57,Very Poor,0
+R012,10580,0.53,204,Asphalt,22,Very Poor,0
+R071,20728,0.14,251,Asphalt,55,Satisfactory,2
+R018,43523,0.13,205,Concrete,31,Good,7
+R099,8317,0.38,216,Asphalt,23,Satisfactory,2
+R045,44828,0.25,46,Gravel,13,Poor,1
+R064,32043,0.25,28,Concrete,45,Good,12
+R060,28851,0.21,126,Gravel,4,Good,13
+R082,9150,0.59,51,Concrete,41,Very Poor,0
+R073,33902,0.55,19,Asphalt,38,Satisfactory,2
+R080,13154,0.59,188,Asphalt,21,Good,6
+R075,49774,0.42,39,Asphalt,21,Good,7
+R014,25528,0.11,78,Asphalt,58,Good,9
+R091,8516,0.57,180,Gravel,19,Satisfactory,2
+R055,41323,0.38,150,Concrete,14,Very Poor,0
+R079,42879,0.55,230,Asphalt,43,Good,3
+R008,16529,0.35,80,Gravel,58,Good,12
+R069,48226,0.41,136,Asphalt,16,Good,7
+R053,26395,0.37,34,Asphalt,28,Very Poor,0
+R076,49548,0.17,27,Concrete,47,Good,10
+R064,19021,0.58,28,Asphalt,33,Satisfactory,2
+R001,49354,0.47,246,Gravel,38,Good,3
+R023,19390,0.14,181,Concrete,45,Satisfactory,2
+R015,35063,0.57,96,Gravel,9,Very Poor,0
+R091,22232,0.41,284,Gravel,19,Satisfactory,2
+R052,13695,0.15,200,Gravel,42,Good,8
+R003,30616,0.11,267,Gravel,36,Satisfactory,2
+R039,31128,0.21,255,Asphalt,59,Good,5
+R057,44335,0.18,206,Asphalt,30,Satisfactory,2
+R059,24159,0.13,205,Gravel,51,Satisfactory,2
+R048,26560,0.43,219,Asphalt,17,Poor,0
+R033,42661,0.49,108,Asphalt,23,Very Poor,0
+R061,46168,0.55,297,Asphalt,9,Good,3
+R093,39812,0.36,292,Gravel,19,Very Poor,0
+R017,41160,0.19,118,Concrete,1,Poor,2
+R075,22929,0.23,105,Concrete,39,Very Poor,0
+R049,7939,0.36,36,Gravel,28,Very Poor,0
+R099,21378,0.17,91,Asphalt,44,Satisfactory,5
+R079,26665,0.29,47,Concrete,59,Poor,0
+R001,44422,0.39,210,Concrete,46,Good,4
+R097,43285,0.27,13,Gravel,39,Good,7
+R067,41307,0.26,213,Asphalt,2,Poor,0
+R095,32926,0.16,175,Gravel,55,Poor,0
+R004,41931,0.51,226,Asphalt,1,Very Poor,0
+R055,27200,0.12,115,Asphalt,5,Satisfactory,6
+R058,36169,0.32,117,Asphalt,58,Good,9
+R054,7064,0.22,261,Gravel,59,Good,5
+R065,38477,0.35,54,Asphalt,58,Satisfactory,2
+R076,41018,0.21,53,Gravel,15,Good,8
+R003,23645,0.44,60,Concrete,3,Poor,0
+R035,21892,0.2,185,Asphalt,17,Good,11
+R028,16267,0.14,97,Concrete,17,Poor,4
+R080,42939,0.21,228,Concrete,13,Very Poor,0
+R014,48730,0.17,13,Gravel,24,Poor,0
+R074,28147,0.32,150,Concrete,27,Poor,0
+R050,43672,0.19,250,Gravel,35,Very Poor,0
+R074,40585,0.1,189,Gravel,2,Good,13
+R007,48481,0.32,116,Concrete,55,Satisfactory,2
+R056,13418,0.51,225,Concrete,5,Good,8
+R028,12435,0.37,66,Gravel,40,Very Poor,0
+R085,8407,0.38,44,Gravel,3,Good,10
+R018,30092,0.36,126,Gravel,56,Very Poor,0
+R029,31505,0.42,171,Concrete,3,Very Poor,0
+R096,16975,0.11,246,Concrete,7,Poor,0
+R029,48454,0.35,235,Asphalt,50,Poor,0
+R021,19799,0.33,208,Gravel,39,Very Poor,0
+R043,48333,0.45,100,Gravel,46,Satisfactory,2
+R050,19549,0.41,261,Gravel,49,Very Poor,0
+R047,25316,0.35,58,Asphalt,52,Good,8
+R008,43176,0.33,248,Gravel,5,Good,7
+R046,19116,0.32,147,Gravel,15,Satisfactory,3
+R093,42545,0.32,91,Concrete,23,Satisfactory,2
+R015,35522,0.56,101,Gravel,53,Poor,0
+R011,24091,0.41,137,Concrete,7,Good,8
+R093,15789,0.29,235,Concrete,53,Very Poor,0
+R048,37991,0.46,156,Asphalt,9,Very Poor,0
+R066,29127,0.24,134,Gravel,58,Very Poor,0
+R006,23610,0.32,12,Gravel,56,Poor,0
+R085,11207,0.4,20,Concrete,33,Very Poor,0
+R086,6893,0.45,30,Asphalt,39,Very Poor,0
+R041,22509,0.59,100,Asphalt,36,Very Poor,0
+R050,9042,0.44,132,Gravel,1,Very Poor,0
+R033,30022,0.16,168,Asphalt,28,Very Poor,0
+R069,40712,0.56,93,Gravel,3,Good,7
+R089,34163,0.4,78,Gravel,9,Good,9
+R066,6211,0.49,19,Gravel,50,Very Poor,0
+R034,36819,0.3,94,Gravel,49,Good,8
+R058,38737,0.43,227,Gravel,21,Satisfactory,2
+R079,8052,0.45,264,Concrete,44,Poor,0
+R055,25750,0.43,266,Gravel,16,Very Poor,0
+R066,30523,0.46,22,Concrete,56,Very Poor,0
+R013,13399,0.33,158,Asphalt,2,Satisfactory,3
+R055,21821,0.47,99,Concrete,58,Poor,0
+R049,43104,0.54,273,Concrete,33,Poor,0
+R013,17916,0.44,30,Asphalt,8,Good,11
+R011,18560,0.36,274,Concrete,15,Satisfactory,3
+R005,43553,0.48,89,Asphalt,36,Good,5
+R064,8815,0.16,111,Gravel,28,Good,10
+R024,44343,0.39,23,Asphalt,53,Poor,0
+R071,15750,0.6,99,Asphalt,29,Satisfactory,2
+R060,43826,0.52,224,Concrete,29,Poor,0
+R002,17963,0.24,67,Gravel,46,Very Poor,0
+R015,15776,0.48,138,Asphalt,23,Good,8
+R029,28369,0.36,162,Asphalt,54,Satisfactory,2
+R051,38332,0.49,91,Asphalt,23,Poor,0
+R026,30601,0.13,112,Asphalt,24,Satisfactory,6
+R034,43784,0.12,246,Asphalt,30,Very Poor,0
+R039,17392,0.18,55,Gravel,55,Good,6
+R083,14546,0.21,33,Concrete,10,Very Poor,0
+R077,25002,0.59,25,Concrete,59,Very Poor,0
+R030,39768,0.23,216,Gravel,16,Poor,0
+R004,32328,0.48,124,Concrete,4,Very Poor,0
+R019,22706,0.56,84,Asphalt,18,Poor,0
+R043,14318,0.55,187,Concrete,23,Very Poor,0
+R098,19650,0.33,213,Concrete,7,Poor,0
+R017,21559,0.43,141,Asphalt,20,Satisfactory,2
+R044,15737,0.44,297,Asphalt,28,Very Poor,0
+R027,24643,0.19,121,Concrete,30,Very Poor,0
+R013,23467,0.17,226,Asphalt,16,Very Poor,0
+R089,6849,0.36,137,Gravel,51,Good,7
+R098,43259,0.52,173,Concrete,4,Good,5
+R038,48299,0.22,178,Concrete,18,Satisfactory,6
+R029,40199,0.13,56,Gravel,39,Poor,0
+R065,6308,0.12,94,Gravel,17,Very Poor,0
+R033,34883,0.38,82,Asphalt,31,Very Poor,0
+R076,11093,0.27,11,Asphalt,52,Good,10
+R027,26602,0.21,11,Gravel,51,Good,9
+R060,49328,0.49,238,Concrete,18,Very Poor,0
+R081,29207,0.32,38,Concrete,7,Very Poor,0
+R060,29845,0.32,115,Gravel,32,Poor,0
+R095,9067,0.13,18,Concrete,57,Very Poor,0
+R001,47012,0.42,152,Concrete,6,Good,9
+R023,19670,0.29,91,Gravel,50,Good,8
+R072,5719,0.57,123,Asphalt,42,Very Poor,0
+R084,39917,0.11,219,Concrete,58,Very Poor,0
+R011,35974,0.19,121,Gravel,25,Very Poor,0
+R060,28525,0.14,101,Concrete,52,Good,8
+R088,42383,0.35,245,Gravel,5,Poor,0
+R063,23635,0.49,194,Concrete,30,Very Poor,0
+R096,11041,0.3,12,Concrete,46,Poor,0
+R023,26059,0.31,150,Asphalt,39,Very Poor,0
+R092,10419,0.17,139,Concrete,54,Poor,0
+R074,42841,0.25,78,Concrete,58,Good,7
+R044,5767,0.59,171,Asphalt,37,Good,3
+R022,38653,0.37,12,Concrete,26,Poor,0
+R034,11269,0.53,207,Gravel,43,Satisfactory,2
+R010,48723,0.31,20,Concrete,39,Good,8
+R032,44897,0.18,109,Gravel,40,Good,8
+R085,45634,0.32,264,Concrete,30,Good,4
+R054,14479,0.54,124,Gravel,20,Good,9
+R009,44754,0.48,220,Concrete,23,Poor,0
+R057,45927,0.39,199,Gravel,19,Poor,0
+R051,17454,0.47,298,Asphalt,19,Very Poor,0
+R044,17516,0.47,25,Concrete,23,Satisfactory,4
+R027,33185,0.19,81,Concrete,5,Very Poor,0
+R092,48113,0.41,186,Asphalt,26,Good,8
+R016,49443,0.43,288,Concrete,33,Good,3
+R084,6770,0.45,126,Concrete,30,Satisfactory,2
+R027,24360,0.34,250,Gravel,38,Very Poor,0
+R082,39160,0.53,59,Asphalt,38,Good,7
+R091,5105,0.46,81,Concrete,28,Very Poor,0
+R042,44753,0.14,195,Asphalt,6,Very Poor,0
+R086,19485,0.33,35,Gravel,39,Poor,0
+R053,10682,0.16,113,Gravel,50,Good,10
+R016,21984,0.41,242,Asphalt,10,Good,5
+R086,5078,0.33,278,Concrete,34,Very Poor,0
+R039,18362,0.57,239,Gravel,3,Satisfactory,2
+R084,15871,0.53,256,Gravel,48,Poor,0
+R036,24665,0.58,142,Gravel,3,Very Poor,0
+R061,11794,0.24,138,Concrete,27,Good,11
+R031,8675,0.41,219,Concrete,12,Poor,0
+R092,37463,0.59,108,Asphalt,22,Good,5
+R040,38123,0.6,183,Concrete,29,Very Poor,0
+R042,22397,0.12,51,Concrete,41,Poor,0
+R047,30345,0.23,175,Asphalt,31,Good,8
+R010,6906,0.3,38,Gravel,3,Poor,4
+R080,20663,0.12,96,Gravel,21,Good,13
+R085,34432,0.16,292,Asphalt,42,Good,5
+R028,21939,0.34,26,Concrete,59,Good,5
+R083,40321,0.57,85,Gravel,39,Very Poor,0
+R053,27219,0.21,223,Concrete,23,Good,7
+R038,25746,0.19,225,Gravel,31,Poor,0
+R010,13864,0.24,183,Gravel,37,Good,8
+R062,29074,0.17,139,Asphalt,40,Satisfactory,3
+R032,46576,0.11,11,Gravel,39,Poor,0
+R004,40507,0.37,29,Asphalt,38,Very Poor,0
+R020,22043,0.44,130,Asphalt,32,Satisfactory,3
+R003,14241,0.34,234,Concrete,1,Good,9
+R071,17171,0.4,103,Concrete,5,Very Poor,0
+R090,7017,0.41,214,Gravel,57,Satisfactory,2
+R063,18237,0.51,78,Concrete,24,Satisfactory,3
+R052,40031,0.37,25,Asphalt,50,Satisfactory,2
+R047,44795,0.31,48,Gravel,25,Poor,0
+R052,42863,0.46,187,Asphalt,13,Satisfactory,2
+R017,19842,0.55,24,Concrete,36,Good,7
+R076,20567,0.46,289,Asphalt,18,Satisfactory,2
+R073,10424,0.29,13,Concrete,26,Satisfactory,4
+R018,27044,0.48,279,Concrete,15,Very Poor,0
+R088,30008,0.14,286,Concrete,17,Poor,0
+R085,32626,0.58,102,Asphalt,20,Very Poor,0
+R022,12860,0.35,86,Gravel,18,Satisfactory,7
+R089,12910,0.38,82,Concrete,33,Very Poor,0
+R050,6951,0.35,26,Asphalt,19,Very Poor,0
+R033,48738,0.55,129,Gravel,37,Very Poor,0
+R065,32169,0.27,205,Asphalt,10,Satisfactory,2
+R043,25823,0.57,227,Asphalt,30,Good,4
+R052,6447,0.14,250,Concrete,21,Satisfactory,2
+R080,16953,0.26,282,Asphalt,32,Poor,0
+R062,37408,0.2,101,Gravel,53,Good,4
+R099,9924,0.22,112,Gravel,33,Satisfactory,4
+R007,40628,0.47,246,Gravel,26,Satisfactory,2
+R060,14336,0.2,191,Asphalt,7,Very Poor,0
+R004,28341,0.51,40,Concrete,24,Satisfactory,2
+R019,47719,0.19,241,Asphalt,36,Very Poor,0
+R093,8513,0.2,118,Concrete,54,Satisfactory,2
+R084,17122,0.29,297,Gravel,52,Satisfactory,2
+R015,31393,0.35,236,Gravel,8,Satisfactory,2
+R064,14107,0.46,95,Gravel,19,Poor,0
+R024,47942,0.52,109,Gravel,30,Good,5
+R073,17886,0.16,24,Gravel,31,Poor,0
+R077,23033,0.2,139,Asphalt,20,Good,11
+R076,33942,0.42,223,Concrete,50,Good,3
+R005,19017,0.15,148,Gravel,37,Good,14
+R072,41113,0.18,59,Asphalt,14,Poor,4
+R062,24938,0.19,190,Concrete,39,Good,7
+R056,46034,0.12,30,Asphalt,10,Very Poor,0
+R031,16434,0.6,57,Asphalt,22,Satisfactory,3
+R098,22558,0.29,269,Asphalt,28,Satisfactory,2
+R087,31567,0.3,110,Gravel,21,Good,8
+R069,45030,0.36,223,Asphalt,14,Poor,0
+R053,48074,0.54,21,Asphalt,45,Satisfactory,2
+R018,7972,0.21,144,Asphalt,30,Poor,0
+R036,43043,0.29,167,Gravel,17,Very Poor,0
+R025,47399,0.49,271,Asphalt,27,Good,3
+R058,31469,0.49,56,Gravel,15,Satisfactory,2
+R038,14930,0.42,33,Concrete,1,Good,12
+R098,11854,0.3,171,Gravel,11,Satisfactory,5
+R030,12637,0.23,125,Concrete,29,Very Poor,0
+R044,15618,0.27,229,Gravel,24,Very Poor,0
+R015,37391,0.35,246,Gravel,53,Good,3
+R003,38760,0.5,295,Gravel,8,Good,3
+R073,24558,0.38,291,Gravel,57,Satisfactory,2
+R057,7983,0.2,199,Concrete,39,Good,10
+R083,7523,0.12,62,Gravel,50,Satisfactory,5
+R095,47725,0.56,232,Concrete,47,Very Poor,0
+R055,17537,0.52,249,Concrete,11,Poor,0
+R049,14063,0.53,272,Asphalt,23,Satisfactory,2
+R088,47098,0.4,182,Concrete,42,Very Poor,0
+R035,38560,0.46,117,Gravel,25,Satisfactory,2
+R066,20762,0.55,36,Asphalt,40,Good,6
+R056,28698,0.41,222,Gravel,59,Very Poor,0
+R004,17270,0.6,249,Gravel,10,Very Poor,0
+R014,27301,0.36,114,Concrete,18,Poor,0
+R055,43346,0.55,213,Asphalt,54,Satisfactory,2
+R067,35699,0.42,231,Asphalt,2,Poor,0
+R055,49398,0.13,234,Asphalt,10,Good,12
+R044,27372,0.41,120,Asphalt,6,Good,11
+R067,26630,0.51,164,Concrete,1,Satisfactory,2
+R021,6823,0.53,273,Gravel,57,Good,3
+R047,29161,0.25,96,Gravel,35,Good,11
+R030,40757,0.46,287,Asphalt,11,Good,3
+R093,13998,0.34,58,Asphalt,46,Poor,0
+R028,6242,0.11,43,Asphalt,32,Very Poor,0
+R058,12246,0.5,282,Asphalt,33,Poor,0
+R015,41526,0.34,230,Concrete,9,Poor,0
+R054,38172,0.26,206,Concrete,10,Satisfactory,2
+R002,41613,0.41,130,Gravel,13,Good,3
+R088,36021,0.32,242,Concrete,3,Good,9
+R069,40851,0.54,186,Gravel,49,Satisfactory,2
+R099,9259,0.35,227,Gravel,14,Good,8
+R041,22207,0.18,65,Concrete,54,Poor,0
+R097,48810,0.42,244,Concrete,23,Poor,0
+R059,37563,0.14,31,Gravel,29,Satisfactory,5
+R070,26596,0.6,112,Concrete,12,Poor,0
+R081,36359,0.17,240,Gravel,42,Poor,0
+R001,30032,0.33,161,Asphalt,44,Good,3
+R040,11273,0.33,102,Concrete,50,Poor,0
+R046,46182,0.35,42,Concrete,20,Good,11
+R018,19692,0.27,233,Asphalt,48,Good,6
+R082,38782,0.47,40,Gravel,37,Satisfactory,5
+R026,11009,0.54,150,Asphalt,28,Poor,0
+R015,25454,0.47,76,Gravel,45,Very Poor,0
+R002,47662,0.24,95,Gravel,8,Poor,1
+R093,22459,0.48,213,Asphalt,48,Poor,0
+R066,28958,0.56,73,Asphalt,59,Very Poor,0
+R045,29829,0.2,29,Gravel,16,Good,13
+R081,43032,0.43,175,Asphalt,38,Satisfactory,2
+R031,31201,0.2,88,Concrete,9,Good,11
+R098,15150,0.31,105,Gravel,25,Satisfactory,5
+R043,42381,0.59,125,Gravel,35,Good,5
+R055,31853,0.39,258,Asphalt,5,Satisfactory,2
+R091,27942,0.57,193,Asphalt,57,Very Poor,0
+R092,46803,0.14,79,Gravel,59,Good,4
+R093,47899,0.38,146,Asphalt,58,Very Poor,0
+R065,41538,0.54,55,Concrete,22,Poor,0
+R024,44601,0.6,113,Concrete,33,Very Poor,0
+R092,17062,0.24,43,Asphalt,50,Very Poor,0
+R033,38734,0.15,32,Asphalt,46,Very Poor,0
+R053,28351,0.2,198,Asphalt,3,Poor,0
+R014,16258,0.12,122,Gravel,44,Very Poor,0
+R063,25607,0.44,282,Gravel,59,Satisfactory,2
+R055,8985,0.53,228,Asphalt,59,Poor,0
+R077,23608,0.48,169,Gravel,10,Satisfactory,4
+R053,25968,0.46,299,Concrete,36,Very Poor,0
+R035,46831,0.36,222,Asphalt,40,Good,3
+R034,47770,0.41,190,Gravel,51,Satisfactory,2
+R042,26263,0.35,189,Concrete,48,Poor,0
+R022,47278,0.18,246,Gravel,10,Very Poor,0
+R041,34510,0.31,138,Concrete,49,Good,5
+R003,40454,0.36,102,Concrete,30,Satisfactory,2
+R033,23758,0.14,289,Asphalt,11,Good,8
+R013,41291,0.49,150,Concrete,23,Very Poor,0
+R047,42458,0.44,89,Concrete,33,Poor,0
+R094,30995,0.12,168,Concrete,29,Satisfactory,4
+R042,27401,0.2,84,Gravel,34,Satisfactory,3
+R091,15086,0.41,38,Asphalt,2,Satisfactory,6
+R070,28332,0.6,133,Asphalt,19,Poor,0
+R088,10062,0.28,86,Asphalt,37,Very Poor,0
+R052,44873,0.22,212,Asphalt,24,Good,5
+R042,38382,0.53,166,Gravel,43,Satisfactory,2
+R011,41545,0.4,195,Asphalt,6,Poor,0
+R077,43014,0.44,271,Gravel,18,Poor,0
+R029,21475,0.48,61,Gravel,3,Satisfactory,6
+R001,18750,0.1,154,Concrete,22,Poor,1
+R096,28704,0.3,269,Concrete,36,Very Poor,0
+R097,30605,0.45,214,Gravel,54,Very Poor,0
+R078,18796,0.27,163,Gravel,55,Very Poor,0
+R060,29230,0.1,279,Gravel,56,Poor,0
+R075,39131,0.29,17,Concrete,24,Very Poor,0
+R076,36106,0.54,75,Concrete,15,Satisfactory,2
+R091,5597,0.14,159,Gravel,46,Poor,0
+R054,34401,0.22,161,Gravel,3,Very Poor,0
+R071,9846,0.41,103,Gravel,35,Poor,0
+R015,35255,0.55,21,Asphalt,28,Good,8
+R044,24239,0.37,66,Concrete,23,Poor,0
+R038,6875,0.21,194,Gravel,57,Good,3
+R016,26371,0.37,225,Concrete,12,Good,7
+R042,15794,0.2,164,Gravel,58,Satisfactory,2
+R035,25800,0.15,31,Gravel,41,Poor,0
+R089,41439,0.4,88,Asphalt,26,Good,6
+R060,48877,0.3,255,Gravel,35,Satisfactory,2
+R061,47089,0.48,45,Concrete,58,Very Poor,0
+R042,7763,0.14,277,Concrete,42,Poor,0
+R025,43179,0.17,298,Asphalt,13,Poor,0
+R046,16688,0.42,161,Concrete,9,Satisfactory,3
+R011,17041,0.32,239,Concrete,15,Satisfactory,3
+R079,31370,0.4,207,Concrete,3,Very Poor,0
+R075,10322,0.31,125,Gravel,28,Poor,0
+R029,14777,0.32,91,Concrete,52,Very Poor,0
+R049,33264,0.19,93,Gravel,34,Poor,0
+R047,47026,0.23,103,Asphalt,42,Poor,0
+R070,36095,0.32,222,Concrete,20,Poor,0
+R093,29124,0.55,97,Gravel,4,Poor,0
+R090,16345,0.5,289,Asphalt,14,Satisfactory,2
+R064,24747,0.22,33,Gravel,31,Very Poor,0
+R076,22615,0.42,161,Asphalt,54,Poor,0
+R050,47733,0.54,84,Concrete,51,Good,9
+R089,30762,0.25,174,Concrete,17,Poor,0
+R087,8258,0.5,213,Gravel,47,Satisfactory,2
+R005,44465,0.5,297,Gravel,42,Poor,0
+R049,5055,0.41,115,Gravel,2,Satisfactory,7
+R040,20184,0.39,240,Gravel,7,Poor,0
+R069,21493,0.51,82,Gravel,20,Good,6
+R059,43452,0.22,177,Gravel,45,Satisfactory,2
+R057,35869,0.21,176,Gravel,9,Very Poor,0
+R061,13837,0.14,135,Gravel,47,Poor,0
+R047,32654,0.33,281,Concrete,1,Satisfactory,4
+R078,46916,0.37,75,Asphalt,30,Satisfactory,2
+R004,37275,0.1,211,Concrete,24,Poor,0
+R013,16864,0.19,262,Asphalt,59,Good,3
+R018,11849,0.17,67,Asphalt,19,Very Poor,0
+R074,36113,0.6,94,Gravel,9,Good,4
+R009,16157,0.36,224,Concrete,7,Poor,0
+R070,9663,0.1,290,Asphalt,27,Very Poor,0
+R020,49648,0.19,171,Concrete,9,Satisfactory,2
+R041,27322,0.4,296,Concrete,34,Poor,0
+R004,42032,0.37,23,Concrete,36,Good,9
+R061,39457,0.24,94,Gravel,28,Satisfactory,2
+R062,32599,0.5,239,Gravel,42,Satisfactory,2
+R048,28296,0.34,74,Concrete,15,Very Poor,0
+R043,16139,0.24,147,Gravel,23,Poor,0
+R097,34217,0.5,42,Gravel,34,Good,4
+R023,15067,0.3,10,Asphalt,5,Satisfactory,5
+R077,38307,0.58,118,Concrete,43,Very Poor,0
+R028,21016,0.36,148,Concrete,28,Good,7
+R008,39938,0.49,90,Gravel,47,Very Poor,0
+R034,17809,0.51,214,Asphalt,59,Good,3
+R037,40524,0.15,29,Concrete,48,Poor,0
+R094,8203,0.37,290,Gravel,3,Good,7
+R025,35984,0.5,299,Asphalt,43,Poor,0
+R030,14969,0.51,203,Asphalt,32,Satisfactory,2
+R091,30705,0.16,10,Gravel,53,Good,11
+R069,29078,0.36,17,Gravel,10,Very Poor,0
+R083,24569,0.3,175,Gravel,59,Good,4
+R033,30738,0.18,285,Gravel,20,Good,4
+R031,37069,0.14,99,Asphalt,47,Satisfactory,2
+R012,15095,0.29,284,Asphalt,51,Satisfactory,2
+R034,49135,0.41,208,Gravel,26,Poor,0
+R098,9663,0.55,28,Gravel,31,Very Poor,0
+R033,28977,0.37,32,Asphalt,47,Very Poor,0
+R053,11668,0.26,203,Asphalt,16,Very Poor,0
+R080,37328,0.58,178,Asphalt,13,Very Poor,0
+R052,24230,0.41,191,Gravel,34,Satisfactory,2
+R082,18541,0.2,177,Concrete,58,Satisfactory,2
+R003,40995,0.11,202,Concrete,41,Satisfactory,2
+R094,42245,0.57,279,Gravel,38,Poor,0
+R095,9491,0.28,172,Gravel,2,Very Poor,0
+R032,47314,0.33,294,Gravel,18,Poor,0
+R001,21304,0.55,113,Gravel,42,Very Poor,0
+R089,32775,0.36,290,Gravel,19,Good,6
+R017,7759,0.12,232,Asphalt,3,Poor,0
+R092,17786,0.29,174,Gravel,32,Good,6
+R012,18450,0.56,62,Gravel,47,Very Poor,0
+R019,32757,0.19,145,Asphalt,4,Satisfactory,5
+R068,26550,0.51,57,Gravel,48,Poor,0
+R042,21218,0.21,148,Asphalt,13,Very Poor,0
+R047,27908,0.3,85,Asphalt,9,Poor,1
+R034,33261,0.43,48,Concrete,28,Poor,0
+R003,24257,0.16,220,Gravel,49,Very Poor,0
+R086,16340,0.26,254,Gravel,2,Very Poor,0
+R006,41617,0.48,214,Gravel,58,Poor,0
+R070,12310,0.38,161,Gravel,30,Very Poor,0
+R068,15892,0.46,121,Concrete,16,Poor,1
+R062,48728,0.34,273,Concrete,52,Good,3
+R077,42876,0.25,58,Gravel,51,Satisfactory,2
+R042,6312,0.58,24,Asphalt,18,Satisfactory,2
+R029,47701,0.55,208,Asphalt,15,Good,3
+R099,9083,0.14,73,Concrete,38,Poor,1
+R098,22323,0.32,232,Asphalt,25,Poor,0
+R066,17213,0.17,75,Asphalt,22,Poor,1
+R053,19408,0.52,142,Concrete,55,Good,4
+R071,17120,0.5,255,Asphalt,48,Very Poor,0
+R097,25460,0.57,280,Concrete,1,Good,4
+R061,49813,0.55,76,Gravel,10,Good,7
+R070,41912,0.51,228,Asphalt,57,Good,3
+R014,39898,0.28,280,Concrete,35,Very Poor,0
+R067,20222,0.22,29,Gravel,37,Very Poor,0
+R097,47626,0.11,50,Asphalt,39,Satisfactory,3
+R077,16161,0.2,288,Concrete,59,Satisfactory,2
+R095,16162,0.28,61,Asphalt,17,Poor,0
+R044,8621,0.47,200,Asphalt,51,Very Poor,0
+R056,5652,0.4,118,Asphalt,15,Very Poor,0
+R014,20659,0.59,161,Asphalt,36,Satisfactory,2
+R003,30964,0.32,149,Concrete,18,Good,6
+R027,43379,0.18,72,Concrete,20,Poor,0
+R085,26514,0.42,135,Concrete,50,Very Poor,0
+R042,6725,0.14,125,Concrete,32,Satisfactory,2
+R009,9784,0.5,218,Asphalt,25,Satisfactory,2
+R031,30192,0.56,288,Asphalt,9,Good,3
+R037,9725,0.33,153,Gravel,33,Satisfactory,6
+R065,20704,0.57,181,Gravel,16,Good,3
+R021,39012,0.17,192,Gravel,15,Very Poor,0
+R018,33743,0.35,292,Gravel,10,Satisfactory,2
+R014,18275,0.11,102,Concrete,1,Poor,0
+R075,13515,0.39,233,Concrete,33,Good,9
+R049,36958,0.23,216,Concrete,13,Poor,0
+R058,38787,0.25,161,Concrete,45,Good,8
+R095,14230,0.12,82,Gravel,52,Satisfactory,7
+R055,37383,0.44,26,Asphalt,31,Good,10
+R025,6789,0.52,240,Asphalt,49,Satisfactory,2
+R025,49135,0.26,63,Gravel,20,Poor,0
+R042,37872,0.22,262,Asphalt,39,Very Poor,0
+R001,28195,0.46,128,Gravel,3,Satisfactory,2
+R096,27257,0.44,222,Concrete,52,Satisfactory,2
+R087,23158,0.13,101,Concrete,23,Very Poor,0
+R057,38214,0.49,177,Gravel,44,Very Poor,0
+R020,41821,0.54,227,Concrete,30,Poor,0
+R037,29853,0.24,71,Concrete,50,Poor,0
+R041,37345,0.38,39,Gravel,39,Poor,0
+R015,11038,0.34,243,Concrete,43,Very Poor,0
+R057,19648,0.2,296,Asphalt,7,Very Poor,0
+R045,14096,0.16,140,Asphalt,35,Poor,0
+R075,5179,0.12,172,Concrete,15,Very Poor,0
+R001,22157,0.35,297,Concrete,52,Satisfactory,2
+R032,26586,0.15,232,Concrete,21,Satisfactory,2
+R034,32213,0.35,280,Asphalt,6,Very Poor,0
+R019,28396,0.47,35,Concrete,18,Good,10
+R063,38371,0.35,82,Gravel,32,Good,4
+R035,23263,0.55,85,Concrete,51,Satisfactory,2
+R061,30362,0.5,131,Gravel,19,Good,6
+R038,36075,0.35,282,Concrete,4,Poor,0
+R004,43460,0.26,205,Concrete,10,Good,3
+R017,16009,0.29,207,Asphalt,26,Poor,0
+R007,30287,0.38,98,Concrete,18,Very Poor,0
+R051,23101,0.48,249,Asphalt,39,Satisfactory,2
+R069,29846,0.57,123,Asphalt,19,Good,7
+R031,20321,0.54,111,Concrete,14,Poor,0
+R019,14476,0.23,208,Asphalt,19,Good,10
+R039,9382,0.31,240,Gravel,24,Very Poor,0
+R042,35177,0.19,57,Asphalt,45,Good,7
+R048,35563,0.15,282,Asphalt,52,Good,4
+R092,38754,0.37,88,Gravel,46,Very Poor,0
+R012,46996,0.17,99,Concrete,22,Good,11
+R021,21105,0.16,55,Concrete,56,Satisfactory,2
+R054,17561,0.38,112,Concrete,10,Satisfactory,2
+R089,7107,0.17,279,Asphalt,58,Good,6
+R018,18528,0.32,33,Concrete,14,Satisfactory,2
+R065,18285,0.13,176,Asphalt,15,Very Poor,0
+R032,27391,0.26,258,Concrete,1,Good,9
+R041,20082,0.23,83,Asphalt,59,Poor,0
+R056,18017,0.46,150,Asphalt,9,Satisfactory,2
+R066,29714,0.26,127,Gravel,6,Very Poor,0
+R078,25684,0.26,296,Asphalt,22,Very Poor,0
+R067,18092,0.2,137,Concrete,47,Poor,0
+R057,37140,0.48,248,Asphalt,33,Satisfactory,2
+R027,5037,0.13,68,Asphalt,28,Satisfactory,4
+R100,28984,0.56,65,Asphalt,1,Poor,0
+R015,11411,0.46,98,Concrete,1,Poor,0
+R089,44657,0.55,156,Asphalt,43,Satisfactory,2
+R072,7460,0.58,154,Gravel,46,Good,6
+R076,26947,0.56,140,Concrete,43,Satisfactory,2
+R005,43968,0.34,187,Asphalt,37,Satisfactory,2
+R018,27666,0.28,239,Concrete,24,Good,8
+R079,5636,0.59,89,Asphalt,30,Very Poor,0
+R083,18025,0.32,97,Asphalt,9,Very Poor,0
+R034,43091,0.37,98,Asphalt,28,Very Poor,0
+R082,8644,0.2,36,Gravel,22,Poor,2
+R068,30818,0.15,41,Concrete,32,Very Poor,0
+R049,34672,0.19,236,Asphalt,53,Poor,0
+R044,25284,0.28,89,Concrete,7,Very Poor,0
+R038,29323,0.23,256,Asphalt,25,Poor,0
+R024,32939,0.51,128,Asphalt,17,Good,7
+R064,17780,0.16,236,Concrete,41,Poor,0
+R067,22263,0.57,46,Asphalt,46,Satisfactory,2
+R025,47608,0.11,237,Concrete,19,Good,8
+R075,23880,0.43,177,Gravel,38,Poor,0
+R080,18908,0.35,198,Concrete,16,Poor,0
+R058,37839,0.15,179,Gravel,13,Very Poor,0
+R086,23232,0.23,204,Gravel,30,Satisfactory,3
+R040,22682,0.44,63,Gravel,40,Poor,0
+R020,42633,0.44,212,Concrete,31,Satisfactory,2
+R084,14677,0.59,263,Asphalt,7,Good,5
+R084,14341,0.39,215,Gravel,28,Very Poor,0
+R094,31548,0.13,284,Concrete,17,Poor,0
+R004,45409,0.44,59,Asphalt,17,Satisfactory,4
+R041,43773,0.35,244,Concrete,36,Poor,0
+R057,12226,0.43,225,Gravel,55,Very Poor,0
+R033,46616,0.14,54,Concrete,12,Very Poor,0
+R093,31880,0.51,30,Concrete,52,Good,3
+R087,31224,0.14,275,Concrete,40,Poor,0
+R056,40790,0.45,37,Gravel,53,Poor,0
+R014,17878,0.15,83,Gravel,47,Poor,0
+R007,46961,0.43,283,Gravel,1,Satisfactory,2
+R063,32115,0.52,76,Gravel,37,Poor,0
+R022,11610,0.21,109,Gravel,29,Very Poor,0
+R042,15073,0.14,279,Asphalt,50,Good,3
+R024,9482,0.52,242,Gravel,23,Satisfactory,2
+R051,48284,0.52,232,Concrete,21,Good,3
+R066,27821,0.4,38,Gravel,47,Satisfactory,3
+R011,27331,0.59,253,Concrete,54,Poor,0
+R008,44802,0.28,153,Concrete,33,Satisfactory,2
+R057,25812,0.53,64,Gravel,51,Good,3
+R091,16036,0.27,168,Concrete,16,Very Poor,0
+R027,42848,0.39,214,Concrete,52,Satisfactory,2
+R088,43985,0.37,86,Gravel,3,Satisfactory,3
+R084,35316,0.3,234,Concrete,34,Poor,0
+R045,44159,0.58,76,Asphalt,7,Good,7
+R084,47684,0.19,105,Asphalt,56,Good,5
+R004,44220,0.14,122,Asphalt,28,Poor,0
+R030,17419,0.52,130,Gravel,5,Satisfactory,4
+R062,12973,0.38,291,Asphalt,1,Poor,0
+R050,6184,0.57,285,Asphalt,16,Good,3
+R038,5916,0.35,257,Gravel,26,Poor,0
+R040,42696,0.49,140,Concrete,51,Satisfactory,2
+R094,5690,0.58,251,Concrete,14,Good,7
+R001,43641,0.37,150,Concrete,2,Very Poor,0
+R052,22094,0.24,30,Gravel,19,Very Poor,0
+R039,20150,0.17,94,Concrete,39,Very Poor,0
+R028,32007,0.28,18,Gravel,25,Poor,0
+R076,44384,0.54,284,Gravel,46,Satisfactory,2
+R077,6756,0.12,98,Concrete,38,Satisfactory,4
+R034,40165,0.4,96,Concrete,51,Poor,0
+R068,46936,0.42,130,Gravel,33,Very Poor,0
+R067,19746,0.35,137,Gravel,26,Poor,2
+R034,15207,0.47,46,Concrete,32,Very Poor,0
+R080,32206,0.46,277,Concrete,11,Good,6
+R067,38312,0.47,201,Concrete,4,Poor,0
+R088,11618,0.57,68,Gravel,52,Poor,0
+R082,43165,0.1,292,Asphalt,17,Very Poor,0
+R057,16179,0.44,17,Gravel,16,Satisfactory,7
+R075,18824,0.32,14,Gravel,59,Poor,0
+R070,38927,0.11,34,Asphalt,58,Poor,0
+R087,35020,0.25,187,Gravel,53,Satisfactory,2
+R010,34455,0.49,47,Gravel,41,Good,6
+R071,17109,0.26,169,Asphalt,38,Satisfactory,2
+R057,44452,0.26,154,Gravel,37,Very Poor,0
+R062,35554,0.32,193,Asphalt,5,Satisfactory,2
+R057,44080,0.46,42,Concrete,57,Very Poor,0
+R016,24669,0.43,219,Gravel,50,Very Poor,0
+R050,16292,0.48,109,Concrete,45,Satisfactory,2
+R050,7114,0.52,32,Concrete,39,Very Poor,0
+R019,37349,0.15,63,Asphalt,10,Satisfactory,8
+R054,17047,0.12,192,Gravel,37,Good,10
+R092,25067,0.34,267,Concrete,32,Good,3
+R087,45823,0.11,132,Gravel,22,Very Poor,0
+R096,32818,0.51,68,Gravel,1,Very Poor,0
+R078,12632,0.19,104,Asphalt,41,Poor,0
+R032,24159,0.52,78,Gravel,17,Good,8
+R066,42405,0.28,98,Asphalt,19,Poor,0
+R026,15532,0.27,86,Asphalt,32,Poor,0
+R069,6004,0.26,209,Gravel,43,Poor,0
+R026,24977,0.47,166,Gravel,5,Poor,0
+R019,8148,0.23,140,Concrete,3,Satisfactory,10
+R012,12399,0.47,39,Concrete,39,Good,9
+R092,38617,0.47,229,Asphalt,57,Poor,0
+R018,9722,0.52,217,Concrete,36,Poor,0
+R052,9576,0.24,170,Concrete,5,Satisfactory,6
+R025,22165,0.45,184,Asphalt,54,Good,6
+R066,42763,0.34,104,Gravel,31,Poor,0
+R025,38270,0.22,121,Concrete,31,Very Poor,0
+R073,16542,0.21,227,Concrete,2,Poor,0
+R074,26868,0.42,133,Asphalt,19,Good,9
+R074,39341,0.15,84,Asphalt,17,Good,11
+R028,43070,0.33,197,Asphalt,8,Poor,0
+R045,15846,0.42,99,Concrete,59,Satisfactory,2
+R007,19738,0.43,279,Gravel,24,Very Poor,0
+R095,19123,0.18,232,Concrete,56,Very Poor,0
+R094,29754,0.33,290,Concrete,52,Poor,0
+R054,18248,0.16,85,Gravel,9,Poor,3
+R041,10283,0.16,179,Gravel,46,Very Poor,0
+R028,15584,0.54,79,Concrete,18,Very Poor,0
+R017,38359,0.41,278,Concrete,55,Satisfactory,2
+R024,20926,0.52,278,Asphalt,47,Poor,0
+R049,25566,0.35,38,Gravel,22,Very Poor,0
+R026,46756,0.26,259,Concrete,35,Very Poor,0
+R048,8574,0.47,110,Asphalt,7,Good,9
+R077,42001,0.33,237,Asphalt,25,Satisfactory,2
+R076,46787,0.24,16,Asphalt,46,Very Poor,0
+R086,10782,0.27,95,Asphalt,13,Satisfactory,5
+R051,47364,0.21,269,Concrete,42,Very Poor,0
+R002,33506,0.46,236,Concrete,28,Poor,0
+R082,46029,0.53,263,Concrete,33,Good,3
+R063,46003,0.52,240,Gravel,49,Satisfactory,2
+R081,45818,0.15,234,Concrete,25,Very Poor,0
+R002,33702,0.36,244,Concrete,43,Good,5
+R010,9833,0.31,63,Gravel,53,Poor,0
+R016,23402,0.53,44,Concrete,11,Good,11
+R010,45984,0.3,93,Asphalt,50,Good,3
+R065,12902,0.2,175,Asphalt,53,Poor,0
+R016,11884,0.55,215,Asphalt,41,Very Poor,0
+R001,28869,0.22,22,Gravel,35,Good,8
+R061,9023,0.51,265,Concrete,51,Very Poor,0
+R097,17213,0.35,173,Gravel,41,Good,8
+R079,35990,0.52,244,Gravel,37,Good,3
+R038,34377,0.39,192,Concrete,13,Satisfactory,3
+R068,22273,0.24,243,Asphalt,56,Poor,0
+R044,5427,0.3,229,Concrete,32,Very Poor,0
+R011,33873,0.32,136,Gravel,9,Very Poor,0
+R066,19961,0.52,144,Asphalt,41,Very Poor,0
+R019,41135,0.55,203,Concrete,15,Poor,0
+R006,28555,0.29,175,Asphalt,26,Poor,0
+R048,8466,0.15,225,Concrete,28,Satisfactory,2
+R010,7978,0.21,116,Gravel,18,Poor,5
+R018,35820,0.3,250,Gravel,41,Very Poor,0
+R054,34430,0.14,182,Concrete,54,Poor,0
+R082,32528,0.3,30,Asphalt,52,Good,8
+R068,20522,0.39,64,Asphalt,23,Satisfactory,2
+R077,25714,0.43,148,Asphalt,3,Good,11
+R062,39318,0.12,10,Gravel,49,Very Poor,0
+R082,18407,0.48,35,Concrete,23,Poor,2
+R074,47464,0.32,60,Concrete,17,Satisfactory,2
+R034,7083,0.42,164,Asphalt,53,Poor,0
+R038,43029,0.46,118,Gravel,56,Very Poor,0
+R048,38440,0.16,136,Asphalt,13,Satisfactory,5
+R032,48036,0.6,216,Asphalt,16,Good,4
+R011,49725,0.55,245,Asphalt,45,Very Poor,0
+R052,25637,0.6,166,Concrete,2,Satisfactory,2
+R009,7723,0.19,163,Gravel,15,Poor,1
+R067,35565,0.36,104,Asphalt,28,Very Poor,0
+R065,7886,0.18,259,Asphalt,7,Poor,0
+R048,18795,0.26,253,Asphalt,39,Satisfactory,4
+R041,25534,0.24,167,Asphalt,29,Satisfactory,2
+R016,11553,0.57,231,Gravel,51,Good,3
+R049,5296,0.47,136,Gravel,5,Good,6
+R023,40036,0.48,17,Concrete,32,Satisfactory,5
+R056,12358,0.52,70,Gravel,54,Satisfactory,2
+R012,22671,0.52,50,Gravel,30,Poor,0
+R049,33161,0.38,203,Asphalt,34,Very Poor,0
+R018,8970,0.2,205,Concrete,23,Good,7
+R051,28800,0.45,162,Concrete,30,Good,4
+R099,41855,0.38,285,Asphalt,45,Satisfactory,2
+R068,38690,0.13,87,Concrete,4,Good,12
+R048,10355,0.44,209,Gravel,2,Satisfactory,4
+R025,48909,0.41,147,Asphalt,44,Good,4
+R030,25895,0.5,38,Asphalt,41,Good,9
+R011,27689,0.51,70,Gravel,8,Satisfactory,2
+R080,46432,0.5,91,Concrete,24,Satisfactory,3
+R013,34550,0.51,21,Concrete,7,Poor,0
+R068,19126,0.24,202,Concrete,8,Satisfactory,3
+R098,25043,0.17,258,Asphalt,19,Good,10
+R006,31624,0.28,145,Concrete,4,Very Poor,0
+R028,47459,0.53,189,Gravel,4,Very Poor,0
+R006,24194,0.57,114,Concrete,2,Satisfactory,3
+R081,8514,0.22,25,Gravel,17,Good,12
+R017,8146,0.31,291,Gravel,2,Good,7
+R060,43524,0.27,50,Gravel,22,Satisfactory,7
+R076,43665,0.28,102,Gravel,57,Poor,0
+R025,6750,0.28,274,Gravel,50,Good,5
+R013,33207,0.37,104,Concrete,6,Poor,0
+R042,42621,0.53,217,Gravel,52,Good,3
+R068,11474,0.26,268,Asphalt,52,Poor,0
+R078,5073,0.2,263,Concrete,1,Satisfactory,5
+R069,38099,0.29,81,Asphalt,43,Very Poor,0
+R062,42699,0.56,124,Asphalt,57,Good,3
+R092,10113,0.2,254,Asphalt,50,Poor,0

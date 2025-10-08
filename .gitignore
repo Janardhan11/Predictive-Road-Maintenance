@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+*.log
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Not committing model artifacts
+models/
+*.h5
+*.keras
+*.joblib
+*.pkl
+*.onnx
+
+# Big data / cache
+data/*.parquet
+data/*.feather
+data/*.npy
+data/*.npz
