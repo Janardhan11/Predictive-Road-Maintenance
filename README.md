@@ -17,6 +17,7 @@ It takes a **road image**, predicts its **condition** using a CNN, then estimate
 ---
 
 ## 📂 Project Structure
+```
 ├── app.py # Streamlit app
 ├── requirements.txt # Python dependencies
 ├── models/
@@ -25,7 +26,7 @@ It takes a **road image**, predicts its **condition** using a CNN, then estimate
 ├── data/
 │ └── simulated_road_deterioration.csv
 └── docs/ (optional screenshots)
-
+```
 
 ---
 
